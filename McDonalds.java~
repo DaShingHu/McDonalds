@@ -1,0 +1,45 @@
+import java.io.IOException;
+import java.io.BufferedReader;
+import java.io.InputStreamReader;
+
+public class McDonalds{
+    /*
+      AUthor: Dustin Hu
+      Date: 08-01-2015
+      Purpose: To demonstrate the McDonalds' queue simulation
+      
+      Methods:
+          main: The main
+     */
+
+
+
+    public static void main (String [] args) throws IOException{
+	// Autohr: Dustin Hu
+	// Date: 12-01-2015
+	// Purpose: To demonstrateh the Restaurant
+	// Input: None
+	// OUtput: None
+	BufferedReader input = new BufferedReader(new InputStreamReader(System.in));
+	Restaurant harveys;
+	boolean exit = false;
+	System.out.println("Welcome to the restaurant simulator");
+
+	while (!exit){
+	    System.out.println("Would you like to simulate a restaurant? Y/N");
+	    userInput = input.readLine();
+	    if (userInput.equals("Y")){
+		
+	    }
+	    else if (userInput.equals("N")){
+		exit = true;
+		System.out.println("Bye bye!");
+	    }
+
+	}
+
+	
+	
+	
+    }
+}

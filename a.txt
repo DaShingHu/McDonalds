@@ -1,0 +1,3300 @@
+----------------------------------------------------------------------
+Instance of Restaurant at 1 out of 100
+Statistics: 
+Cashiers:            10
+Total customers:     0
+Total order time:    0
+Total wait time:     0
+Average wait time:   0
+One line:            true
+Average Line Length: 1
+
+End of statistics for instance of restaurant at 1out of 100
+----------------------------------------------------------------------
+----------------------------------------------------------------------
+Instance of Restaurant at 2 out of 100
+Statistics: 
+Cashiers:            10
+Total customers:     1
+Total order time:    1
+Total wait time:     1
+Average wait time:   1
+One line:            true
+Average Line Length: 1
+
+End of statistics for instance of restaurant at 2out of 100
+----------------------------------------------------------------------
+----------------------------------------------------------------------
+Instance of Restaurant at 3 out of 100
+Statistics: 
+Cashiers:            10
+Total customers:     1
+Total order time:    1
+Total wait time:     1
+Average wait time:   1
+One line:            true
+Average Line Length: 1
+
+End of statistics for instance of restaurant at 3out of 100
+----------------------------------------------------------------------
+----------------------------------------------------------------------
+Instance of Restaurant at 4 out of 100
+Statistics: 
+Cashiers:            10
+Total customers:     1
+Total order time:    1
+Total wait time:     1
+Average wait time:   1
+One line:            true
+Average Line Length: 1
+
+End of statistics for instance of restaurant at 4out of 100
+----------------------------------------------------------------------
+----------------------------------------------------------------------
+Instance of Restaurant at 5 out of 100
+Statistics: 
+Cashiers:            10
+Total customers:     2
+Total order time:    4
+Total wait time:     4
+Average wait time:   2
+One line:            true
+Average Line Length: 1
+
+End of statistics for instance of restaurant at 5out of 100
+----------------------------------------------------------------------
+----------------------------------------------------------------------
+Instance of Restaurant at 6 out of 100
+Statistics: 
+Cashiers:            10
+Total customers:     2
+Total order time:    4
+Total wait time:     4
+Average wait time:   2
+One line:            true
+Average Line Length: 1
+
+End of statistics for instance of restaurant at 6out of 100
+----------------------------------------------------------------------
+----------------------------------------------------------------------
+Instance of Restaurant at 7 out of 100
+Statistics: 
+Cashiers:            10
+Total customers:     2
+Total order time:    4
+Total wait time:     4
+Average wait time:   2
+One line:            true
+Average Line Length: 1
+
+End of statistics for instance of restaurant at 7out of 100
+----------------------------------------------------------------------
+----------------------------------------------------------------------
+Instance of Restaurant at 8 out of 100
+Statistics: 
+Cashiers:            10
+Total customers:     2
+Total order time:    4
+Total wait time:     4
+Average wait time:   2
+One line:            true
+Average Line Length: 1
+
+End of statistics for instance of restaurant at 8out of 100
+----------------------------------------------------------------------
+----------------------------------------------------------------------
+Instance of Restaurant at 9 out of 100
+Statistics: 
+Cashiers:            10
+Total customers:     2
+Total order time:    4
+Total wait time:     4
+Average wait time:   2
+One line:            true
+Average Line Length: 1
+
+End of statistics for instance of restaurant at 9out of 100
+----------------------------------------------------------------------
+----------------------------------------------------------------------
+Instance of Restaurant at 10 out of 100
+Statistics: 
+Cashiers:            10
+Total customers:     3
+Total order time:    10
+Total wait time:     10
+Average wait time:   3
+One line:            true
+Average Line Length: 1
+
+End of statistics for instance of restaurant at 10out of 100
+----------------------------------------------------------------------
+----------------------------------------------------------------------
+Instance of Restaurant at 11 out of 100
+Statistics: 
+Cashiers:            10
+Total customers:     3
+Total order time:    10
+Total wait time:     10
+Average wait time:   3
+One line:            true
+Average Line Length: 1
+
+End of statistics for instance of restaurant at 11out of 100
+----------------------------------------------------------------------
+----------------------------------------------------------------------
+Instance of Restaurant at 12 out of 100
+Statistics: 
+Cashiers:            10
+Total customers:     3
+Total order time:    10
+Total wait time:     10
+Average wait time:   3
+One line:            true
+Average Line Length: 1
+
+End of statistics for instance of restaurant at 12out of 100
+----------------------------------------------------------------------
+----------------------------------------------------------------------
+Instance of Restaurant at 13 out of 100
+Statistics: 
+Cashiers:            10
+Total customers:     3
+Total order time:    10
+Total wait time:     10
+Average wait time:   3
+One line:            true
+Average Line Length: 1
+
+End of statistics for instance of restaurant at 13out of 100
+----------------------------------------------------------------------
+----------------------------------------------------------------------
+Instance of Restaurant at 14 out of 100
+Statistics: 
+Cashiers:            10
+Total customers:     3
+Total order time:    10
+Total wait time:     10
+Average wait time:   3
+One line:            true
+Average Line Length: 1
+
+End of statistics for instance of restaurant at 14out of 100
+----------------------------------------------------------------------
+----------------------------------------------------------------------
+Instance of Restaurant at 15 out of 100
+Statistics: 
+Cashiers:            10
+Total customers:     5
+Total order time:    25
+Total wait time:     25
+Average wait time:   5
+One line:            true
+Average Line Length: 1
+
+End of statistics for instance of restaurant at 15out of 100
+----------------------------------------------------------------------
+----------------------------------------------------------------------
+Instance of Restaurant at 16 out of 100
+Statistics: 
+Cashiers:            10
+Total customers:     5
+Total order time:    25
+Total wait time:     25
+Average wait time:   5
+One line:            true
+Average Line Length: 1
+
+End of statistics for instance of restaurant at 16out of 100
+----------------------------------------------------------------------
+----------------------------------------------------------------------
+Instance of Restaurant at 17 out of 100
+Statistics: 
+Cashiers:            10
+Total customers:     6
+Total order time:    30
+Total wait time:     30
+Average wait time:   5
+One line:            true
+Average Line Length: 1
+
+End of statistics for instance of restaurant at 17out of 100
+----------------------------------------------------------------------
+----------------------------------------------------------------------
+Instance of Restaurant at 18 out of 100
+Statistics: 
+Cashiers:            10
+Total customers:     6
+Total order time:    30
+Total wait time:     30
+Average wait time:   5
+One line:            true
+Average Line Length: 1
+
+End of statistics for instance of restaurant at 18out of 100
+----------------------------------------------------------------------
+----------------------------------------------------------------------
+Instance of Restaurant at 19 out of 100
+Statistics: 
+Cashiers:            10
+Total customers:     7
+Total order time:    39
+Total wait time:     39
+Average wait time:   5
+One line:            true
+Average Line Length: 1
+
+End of statistics for instance of restaurant at 19out of 100
+----------------------------------------------------------------------
+----------------------------------------------------------------------
+Instance of Restaurant at 20 out of 100
+Statistics: 
+Cashiers:            10
+Total customers:     8
+Total order time:    42
+Total wait time:     42
+Average wait time:   5
+One line:            true
+Average Line Length: 1
+
+End of statistics for instance of restaurant at 20out of 100
+----------------------------------------------------------------------
+----------------------------------------------------------------------
+Instance of Restaurant at 21 out of 100
+Statistics: 
+Cashiers:            10
+Total customers:     9
+Total order time:    50
+Total wait time:     50
+Average wait time:   5
+One line:            true
+Average Line Length: 1
+
+End of statistics for instance of restaurant at 21out of 100
+----------------------------------------------------------------------
+----------------------------------------------------------------------
+Instance of Restaurant at 22 out of 100
+Statistics: 
+Cashiers:            10
+Total customers:     9
+Total order time:    50
+Total wait time:     50
+Average wait time:   5
+One line:            true
+Average Line Length: 1
+
+End of statistics for instance of restaurant at 22out of 100
+----------------------------------------------------------------------
+----------------------------------------------------------------------
+Instance of Restaurant at 23 out of 100
+Statistics: 
+Cashiers:            10
+Total customers:     10
+Total order time:    52
+Total wait time:     52
+Average wait time:   5
+One line:            true
+Average Line Length: 1
+
+End of statistics for instance of restaurant at 23out of 100
+----------------------------------------------------------------------
+----------------------------------------------------------------------
+Instance of Restaurant at 24 out of 100
+Statistics: 
+Cashiers:            10
+Total customers:     11
+Total order time:    56
+Total wait time:     56
+Average wait time:   5
+One line:            true
+Average Line Length: 1
+
+End of statistics for instance of restaurant at 24out of 100
+----------------------------------------------------------------------
+----------------------------------------------------------------------
+Instance of Restaurant at 25 out of 100
+Statistics: 
+Cashiers:            10
+Total customers:     12
+Total order time:    63
+Total wait time:     63
+Average wait time:   5
+One line:            true
+Average Line Length: 1
+
+End of statistics for instance of restaurant at 25out of 100
+----------------------------------------------------------------------
+----------------------------------------------------------------------
+Instance of Restaurant at 26 out of 100
+Statistics: 
+Cashiers:            10
+Total customers:     12
+Total order time:    63
+Total wait time:     63
+Average wait time:   5
+One line:            true
+Average Line Length: 1
+
+End of statistics for instance of restaurant at 26out of 100
+----------------------------------------------------------------------
+----------------------------------------------------------------------
+Instance of Restaurant at 27 out of 100
+Statistics: 
+Cashiers:            10
+Total customers:     12
+Total order time:    63
+Total wait time:     63
+Average wait time:   5
+One line:            true
+Average Line Length: 1
+
+End of statistics for instance of restaurant at 27out of 100
+----------------------------------------------------------------------
+----------------------------------------------------------------------
+Instance of Restaurant at 28 out of 100
+Statistics: 
+Cashiers:            10
+Total customers:     12
+Total order time:    63
+Total wait time:     63
+Average wait time:   5
+One line:            true
+Average Line Length: 1
+
+End of statistics for instance of restaurant at 28out of 100
+----------------------------------------------------------------------
+----------------------------------------------------------------------
+Instance of Restaurant at 29 out of 100
+Statistics: 
+Cashiers:            10
+Total customers:     12
+Total order time:    63
+Total wait time:     63
+Average wait time:   5
+One line:            true
+Average Line Length: 1
+
+End of statistics for instance of restaurant at 29out of 100
+----------------------------------------------------------------------
+----------------------------------------------------------------------
+Instance of Restaurant at 30 out of 100
+Statistics: 
+Cashiers:            10
+Total customers:     12
+Total order time:    63
+Total wait time:     63
+Average wait time:   5
+One line:            true
+Average Line Length: 1
+
+End of statistics for instance of restaurant at 30out of 100
+----------------------------------------------------------------------
+----------------------------------------------------------------------
+Instance of Restaurant at 31 out of 100
+Statistics: 
+Cashiers:            10
+Total customers:     12
+Total order time:    63
+Total wait time:     63
+Average wait time:   5
+One line:            true
+Average Line Length: 1
+
+End of statistics for instance of restaurant at 31out of 100
+----------------------------------------------------------------------
+----------------------------------------------------------------------
+Instance of Restaurant at 32 out of 100
+Statistics: 
+Cashiers:            10
+Total customers:     13
+Total order time:    64
+Total wait time:     64
+Average wait time:   4
+One line:            true
+Average Line Length: 1
+
+End of statistics for instance of restaurant at 32out of 100
+----------------------------------------------------------------------
+----------------------------------------------------------------------
+Instance of Restaurant at 33 out of 100
+Statistics: 
+Cashiers:            10
+Total customers:     14
+Total order time:    67
+Total wait time:     67
+Average wait time:   4
+One line:            true
+Average Line Length: 1
+
+End of statistics for instance of restaurant at 33out of 100
+----------------------------------------------------------------------
+----------------------------------------------------------------------
+Instance of Restaurant at 34 out of 100
+Statistics: 
+Cashiers:            10
+Total customers:     16
+Total order time:    78
+Total wait time:     78
+Average wait time:   4
+One line:            true
+Average Line Length: 1
+
+End of statistics for instance of restaurant at 34out of 100
+----------------------------------------------------------------------
+----------------------------------------------------------------------
+Instance of Restaurant at 35 out of 100
+Statistics: 
+Cashiers:            10
+Total customers:     16
+Total order time:    78
+Total wait time:     78
+Average wait time:   4
+One line:            true
+Average Line Length: 1
+
+End of statistics for instance of restaurant at 35out of 100
+----------------------------------------------------------------------
+----------------------------------------------------------------------
+Instance of Restaurant at 36 out of 100
+Statistics: 
+Cashiers:            10
+Total customers:     16
+Total order time:    78
+Total wait time:     78
+Average wait time:   4
+One line:            true
+Average Line Length: 1
+
+End of statistics for instance of restaurant at 36out of 100
+----------------------------------------------------------------------
+----------------------------------------------------------------------
+Instance of Restaurant at 37 out of 100
+Statistics: 
+Cashiers:            10
+Total customers:     16
+Total order time:    78
+Total wait time:     78
+Average wait time:   4
+One line:            true
+Average Line Length: 1
+
+End of statistics for instance of restaurant at 37out of 100
+----------------------------------------------------------------------
+----------------------------------------------------------------------
+Instance of Restaurant at 38 out of 100
+Statistics: 
+Cashiers:            10
+Total customers:     17
+Total order time:    81
+Total wait time:     81
+Average wait time:   4
+One line:            true
+Average Line Length: 1
+
+End of statistics for instance of restaurant at 38out of 100
+----------------------------------------------------------------------
+----------------------------------------------------------------------
+Instance of Restaurant at 39 out of 100
+Statistics: 
+Cashiers:            10
+Total customers:     17
+Total order time:    81
+Total wait time:     81
+Average wait time:   4
+One line:            true
+Average Line Length: 1
+
+End of statistics for instance of restaurant at 39out of 100
+----------------------------------------------------------------------
+----------------------------------------------------------------------
+Instance of Restaurant at 40 out of 100
+Statistics: 
+Cashiers:            10
+Total customers:     17
+Total order time:    81
+Total wait time:     81
+Average wait time:   4
+One line:            true
+Average Line Length: 1
+
+End of statistics for instance of restaurant at 40out of 100
+----------------------------------------------------------------------
+----------------------------------------------------------------------
+Instance of Restaurant at 41 out of 100
+Statistics: 
+Cashiers:            10
+Total customers:     17
+Total order time:    81
+Total wait time:     81
+Average wait time:   4
+One line:            true
+Average Line Length: 1
+
+End of statistics for instance of restaurant at 41out of 100
+----------------------------------------------------------------------
+----------------------------------------------------------------------
+Instance of Restaurant at 42 out of 100
+Statistics: 
+Cashiers:            10
+Total customers:     19
+Total order time:    87
+Total wait time:     87
+Average wait time:   4
+One line:            true
+Average Line Length: 1
+
+End of statistics for instance of restaurant at 42out of 100
+----------------------------------------------------------------------
+----------------------------------------------------------------------
+Instance of Restaurant at 43 out of 100
+Statistics: 
+Cashiers:            10
+Total customers:     19
+Total order time:    87
+Total wait time:     87
+Average wait time:   4
+One line:            true
+Average Line Length: 1
+
+End of statistics for instance of restaurant at 43out of 100
+----------------------------------------------------------------------
+----------------------------------------------------------------------
+Instance of Restaurant at 44 out of 100
+Statistics: 
+Cashiers:            10
+Total customers:     20
+Total order time:    97
+Total wait time:     97
+Average wait time:   4
+One line:            true
+Average Line Length: 1
+
+End of statistics for instance of restaurant at 44out of 100
+----------------------------------------------------------------------
+----------------------------------------------------------------------
+Instance of Restaurant at 45 out of 100
+Statistics: 
+Cashiers:            10
+Total customers:     21
+Total order time:    99
+Total wait time:     99
+Average wait time:   4
+One line:            true
+Average Line Length: 1
+
+End of statistics for instance of restaurant at 45out of 100
+----------------------------------------------------------------------
+----------------------------------------------------------------------
+Instance of Restaurant at 46 out of 100
+Statistics: 
+Cashiers:            10
+Total customers:     21
+Total order time:    99
+Total wait time:     99
+Average wait time:   4
+One line:            true
+Average Line Length: 1
+
+End of statistics for instance of restaurant at 46out of 100
+----------------------------------------------------------------------
+----------------------------------------------------------------------
+Instance of Restaurant at 47 out of 100
+Statistics: 
+Cashiers:            10
+Total customers:     22
+Total order time:    102
+Total wait time:     102
+Average wait time:   4
+One line:            true
+Average Line Length: 1
+
+End of statistics for instance of restaurant at 47out of 100
+----------------------------------------------------------------------
+----------------------------------------------------------------------
+Instance of Restaurant at 48 out of 100
+Statistics: 
+Cashiers:            10
+Total customers:     22
+Total order time:    102
+Total wait time:     102
+Average wait time:   4
+One line:            true
+Average Line Length: 1
+
+End of statistics for instance of restaurant at 48out of 100
+----------------------------------------------------------------------
+----------------------------------------------------------------------
+Instance of Restaurant at 49 out of 100
+Statistics: 
+Cashiers:            10
+Total customers:     22
+Total order time:    102
+Total wait time:     102
+Average wait time:   4
+One line:            true
+Average Line Length: 1
+
+End of statistics for instance of restaurant at 49out of 100
+----------------------------------------------------------------------
+----------------------------------------------------------------------
+Instance of Restaurant at 50 out of 100
+Statistics: 
+Cashiers:            10
+Total customers:     22
+Total order time:    102
+Total wait time:     102
+Average wait time:   4
+One line:            true
+Average Line Length: 1
+
+End of statistics for instance of restaurant at 50out of 100
+----------------------------------------------------------------------
+----------------------------------------------------------------------
+Instance of Restaurant at 51 out of 100
+Statistics: 
+Cashiers:            10
+Total customers:     25
+Total order time:    117
+Total wait time:     117
+Average wait time:   4
+One line:            true
+Average Line Length: 1
+
+End of statistics for instance of restaurant at 51out of 100
+----------------------------------------------------------------------
+----------------------------------------------------------------------
+Instance of Restaurant at 52 out of 100
+Statistics: 
+Cashiers:            10
+Total customers:     25
+Total order time:    117
+Total wait time:     117
+Average wait time:   4
+One line:            true
+Average Line Length: 1
+
+End of statistics for instance of restaurant at 52out of 100
+----------------------------------------------------------------------
+----------------------------------------------------------------------
+Instance of Restaurant at 53 out of 100
+Statistics: 
+Cashiers:            10
+Total customers:     25
+Total order time:    117
+Total wait time:     117
+Average wait time:   4
+One line:            true
+Average Line Length: 1
+
+End of statistics for instance of restaurant at 53out of 100
+----------------------------------------------------------------------
+----------------------------------------------------------------------
+Instance of Restaurant at 54 out of 100
+Statistics: 
+Cashiers:            10
+Total customers:     26
+Total order time:    119
+Total wait time:     119
+Average wait time:   4
+One line:            true
+Average Line Length: 1
+
+End of statistics for instance of restaurant at 54out of 100
+----------------------------------------------------------------------
+----------------------------------------------------------------------
+Instance of Restaurant at 55 out of 100
+Statistics: 
+Cashiers:            10
+Total customers:     26
+Total order time:    119
+Total wait time:     119
+Average wait time:   4
+One line:            true
+Average Line Length: 1
+
+End of statistics for instance of restaurant at 55out of 100
+----------------------------------------------------------------------
+----------------------------------------------------------------------
+Instance of Restaurant at 56 out of 100
+Statistics: 
+Cashiers:            10
+Total customers:     26
+Total order time:    119
+Total wait time:     119
+Average wait time:   4
+One line:            true
+Average Line Length: 1
+
+End of statistics for instance of restaurant at 56out of 100
+----------------------------------------------------------------------
+----------------------------------------------------------------------
+Instance of Restaurant at 57 out of 100
+Statistics: 
+Cashiers:            10
+Total customers:     26
+Total order time:    119
+Total wait time:     119
+Average wait time:   4
+One line:            true
+Average Line Length: 1
+
+End of statistics for instance of restaurant at 57out of 100
+----------------------------------------------------------------------
+----------------------------------------------------------------------
+Instance of Restaurant at 58 out of 100
+Statistics: 
+Cashiers:            10
+Total customers:     27
+Total order time:    120
+Total wait time:     120
+Average wait time:   4
+One line:            true
+Average Line Length: 1
+
+End of statistics for instance of restaurant at 58out of 100
+----------------------------------------------------------------------
+----------------------------------------------------------------------
+Instance of Restaurant at 59 out of 100
+Statistics: 
+Cashiers:            10
+Total customers:     27
+Total order time:    120
+Total wait time:     120
+Average wait time:   4
+One line:            true
+Average Line Length: 1
+
+End of statistics for instance of restaurant at 59out of 100
+----------------------------------------------------------------------
+----------------------------------------------------------------------
+Instance of Restaurant at 60 out of 100
+Statistics: 
+Cashiers:            10
+Total customers:     28
+Total order time:    129
+Total wait time:     129
+Average wait time:   4
+One line:            true
+Average Line Length: 1
+
+End of statistics for instance of restaurant at 60out of 100
+----------------------------------------------------------------------
+----------------------------------------------------------------------
+Instance of Restaurant at 61 out of 100
+Statistics: 
+Cashiers:            10
+Total customers:     28
+Total order time:    129
+Total wait time:     129
+Average wait time:   4
+One line:            true
+Average Line Length: 1
+
+End of statistics for instance of restaurant at 61out of 100
+----------------------------------------------------------------------
+----------------------------------------------------------------------
+Instance of Restaurant at 62 out of 100
+Statistics: 
+Cashiers:            10
+Total customers:     28
+Total order time:    129
+Total wait time:     129
+Average wait time:   4
+One line:            true
+Average Line Length: 1
+
+End of statistics for instance of restaurant at 62out of 100
+----------------------------------------------------------------------
+----------------------------------------------------------------------
+Instance of Restaurant at 63 out of 100
+Statistics: 
+Cashiers:            10
+Total customers:     28
+Total order time:    129
+Total wait time:     129
+Average wait time:   4
+One line:            true
+Average Line Length: 1
+
+End of statistics for instance of restaurant at 63out of 100
+----------------------------------------------------------------------
+----------------------------------------------------------------------
+Instance of Restaurant at 64 out of 100
+Statistics: 
+Cashiers:            10
+Total customers:     29
+Total order time:    130
+Total wait time:     130
+Average wait time:   4
+One line:            true
+Average Line Length: 1
+
+End of statistics for instance of restaurant at 64out of 100
+----------------------------------------------------------------------
+----------------------------------------------------------------------
+Instance of Restaurant at 65 out of 100
+Statistics: 
+Cashiers:            10
+Total customers:     30
+Total order time:    134
+Total wait time:     134
+Average wait time:   4
+One line:            true
+Average Line Length: 1
+
+End of statistics for instance of restaurant at 65out of 100
+----------------------------------------------------------------------
+----------------------------------------------------------------------
+Instance of Restaurant at 66 out of 100
+Statistics: 
+Cashiers:            10
+Total customers:     32
+Total order time:    143
+Total wait time:     143
+Average wait time:   4
+One line:            true
+Average Line Length: 1
+
+End of statistics for instance of restaurant at 66out of 100
+----------------------------------------------------------------------
+----------------------------------------------------------------------
+Instance of Restaurant at 67 out of 100
+Statistics: 
+Cashiers:            10
+Total customers:     32
+Total order time:    143
+Total wait time:     143
+Average wait time:   4
+One line:            true
+Average Line Length: 1
+
+End of statistics for instance of restaurant at 67out of 100
+----------------------------------------------------------------------
+----------------------------------------------------------------------
+Instance of Restaurant at 68 out of 100
+Statistics: 
+Cashiers:            10
+Total customers:     33
+Total order time:    144
+Total wait time:     144
+Average wait time:   4
+One line:            true
+Average Line Length: 1
+
+End of statistics for instance of restaurant at 68out of 100
+----------------------------------------------------------------------
+----------------------------------------------------------------------
+Instance of Restaurant at 69 out of 100
+Statistics: 
+Cashiers:            10
+Total customers:     34
+Total order time:    151
+Total wait time:     151
+Average wait time:   4
+One line:            true
+Average Line Length: 1
+
+End of statistics for instance of restaurant at 69out of 100
+----------------------------------------------------------------------
+----------------------------------------------------------------------
+Instance of Restaurant at 70 out of 100
+Statistics: 
+Cashiers:            10
+Total customers:     34
+Total order time:    151
+Total wait time:     151
+Average wait time:   4
+One line:            true
+Average Line Length: 1
+
+End of statistics for instance of restaurant at 70out of 100
+----------------------------------------------------------------------
+----------------------------------------------------------------------
+Instance of Restaurant at 71 out of 100
+Statistics: 
+Cashiers:            10
+Total customers:     35
+Total order time:    156
+Total wait time:     156
+Average wait time:   4
+One line:            true
+Average Line Length: 1
+
+End of statistics for instance of restaurant at 71out of 100
+----------------------------------------------------------------------
+----------------------------------------------------------------------
+Instance of Restaurant at 72 out of 100
+Statistics: 
+Cashiers:            10
+Total customers:     35
+Total order time:    156
+Total wait time:     156
+Average wait time:   4
+One line:            true
+Average Line Length: 1
+
+End of statistics for instance of restaurant at 72out of 100
+----------------------------------------------------------------------
+----------------------------------------------------------------------
+Instance of Restaurant at 73 out of 100
+Statistics: 
+Cashiers:            10
+Total customers:     35
+Total order time:    156
+Total wait time:     156
+Average wait time:   4
+One line:            true
+Average Line Length: 1
+
+End of statistics for instance of restaurant at 73out of 100
+----------------------------------------------------------------------
+----------------------------------------------------------------------
+Instance of Restaurant at 74 out of 100
+Statistics: 
+Cashiers:            10
+Total customers:     35
+Total order time:    156
+Total wait time:     156
+Average wait time:   4
+One line:            true
+Average Line Length: 1
+
+End of statistics for instance of restaurant at 74out of 100
+----------------------------------------------------------------------
+----------------------------------------------------------------------
+Instance of Restaurant at 75 out of 100
+Statistics: 
+Cashiers:            10
+Total customers:     39
+Total order time:    169
+Total wait time:     169
+Average wait time:   4
+One line:            true
+Average Line Length: 1
+
+End of statistics for instance of restaurant at 75out of 100
+----------------------------------------------------------------------
+----------------------------------------------------------------------
+Instance of Restaurant at 76 out of 100
+Statistics: 
+Cashiers:            10
+Total customers:     39
+Total order time:    169
+Total wait time:     169
+Average wait time:   4
+One line:            true
+Average Line Length: 1
+
+End of statistics for instance of restaurant at 76out of 100
+----------------------------------------------------------------------
+----------------------------------------------------------------------
+Instance of Restaurant at 77 out of 100
+Statistics: 
+Cashiers:            10
+Total customers:     39
+Total order time:    169
+Total wait time:     169
+Average wait time:   4
+One line:            true
+Average Line Length: 1
+
+End of statistics for instance of restaurant at 77out of 100
+----------------------------------------------------------------------
+----------------------------------------------------------------------
+Instance of Restaurant at 78 out of 100
+Statistics: 
+Cashiers:            10
+Total customers:     41
+Total order time:    178
+Total wait time:     178
+Average wait time:   4
+One line:            true
+Average Line Length: 1
+
+End of statistics for instance of restaurant at 78out of 100
+----------------------------------------------------------------------
+----------------------------------------------------------------------
+Instance of Restaurant at 79 out of 100
+Statistics: 
+Cashiers:            10
+Total customers:     41
+Total order time:    178
+Total wait time:     178
+Average wait time:   4
+One line:            true
+Average Line Length: 1
+
+End of statistics for instance of restaurant at 79out of 100
+----------------------------------------------------------------------
+----------------------------------------------------------------------
+Instance of Restaurant at 80 out of 100
+Statistics: 
+Cashiers:            10
+Total customers:     41
+Total order time:    178
+Total wait time:     178
+Average wait time:   4
+One line:            true
+Average Line Length: 1
+
+End of statistics for instance of restaurant at 80out of 100
+----------------------------------------------------------------------
+----------------------------------------------------------------------
+Instance of Restaurant at 81 out of 100
+Statistics: 
+Cashiers:            10
+Total customers:     41
+Total order time:    178
+Total wait time:     178
+Average wait time:   4
+One line:            true
+Average Line Length: 1
+
+End of statistics for instance of restaurant at 81out of 100
+----------------------------------------------------------------------
+----------------------------------------------------------------------
+Instance of Restaurant at 82 out of 100
+Statistics: 
+Cashiers:            10
+Total customers:     41
+Total order time:    178
+Total wait time:     178
+Average wait time:   4
+One line:            true
+Average Line Length: 1
+
+End of statistics for instance of restaurant at 82out of 100
+----------------------------------------------------------------------
+----------------------------------------------------------------------
+Instance of Restaurant at 83 out of 100
+Statistics: 
+Cashiers:            10
+Total customers:     41
+Total order time:    178
+Total wait time:     178
+Average wait time:   4
+One line:            true
+Average Line Length: 1
+
+End of statistics for instance of restaurant at 83out of 100
+----------------------------------------------------------------------
+----------------------------------------------------------------------
+Instance of Restaurant at 84 out of 100
+Statistics: 
+Cashiers:            10
+Total customers:     41
+Total order time:    178
+Total wait time:     178
+Average wait time:   4
+One line:            true
+Average Line Length: 1
+
+End of statistics for instance of restaurant at 84out of 100
+----------------------------------------------------------------------
+----------------------------------------------------------------------
+Instance of Restaurant at 85 out of 100
+Statistics: 
+Cashiers:            10
+Total customers:     42
+Total order time:    179
+Total wait time:     179
+Average wait time:   4
+One line:            true
+Average Line Length: 1
+
+End of statistics for instance of restaurant at 85out of 100
+----------------------------------------------------------------------
+----------------------------------------------------------------------
+Instance of Restaurant at 86 out of 100
+Statistics: 
+Cashiers:            10
+Total customers:     43
+Total order time:    184
+Total wait time:     184
+Average wait time:   4
+One line:            true
+Average Line Length: 1
+
+End of statistics for instance of restaurant at 86out of 100
+----------------------------------------------------------------------
+----------------------------------------------------------------------
+Instance of Restaurant at 87 out of 100
+Statistics: 
+Cashiers:            10
+Total customers:     43
+Total order time:    184
+Total wait time:     184
+Average wait time:   4
+One line:            true
+Average Line Length: 1
+
+End of statistics for instance of restaurant at 87out of 100
+----------------------------------------------------------------------
+----------------------------------------------------------------------
+Instance of Restaurant at 88 out of 100
+Statistics: 
+Cashiers:            10
+Total customers:     44
+Total order time:    186
+Total wait time:     186
+Average wait time:   4
+One line:            true
+Average Line Length: 1
+
+End of statistics for instance of restaurant at 88out of 100
+----------------------------------------------------------------------
+----------------------------------------------------------------------
+Instance of Restaurant at 89 out of 100
+Statistics: 
+Cashiers:            10
+Total customers:     45
+Total order time:    188
+Total wait time:     188
+Average wait time:   4
+One line:            true
+Average Line Length: 1
+
+End of statistics for instance of restaurant at 89out of 100
+----------------------------------------------------------------------
+----------------------------------------------------------------------
+Instance of Restaurant at 90 out of 100
+Statistics: 
+Cashiers:            10
+Total customers:     45
+Total order time:    188
+Total wait time:     188
+Average wait time:   4
+One line:            true
+Average Line Length: 1
+
+End of statistics for instance of restaurant at 90out of 100
+----------------------------------------------------------------------
+----------------------------------------------------------------------
+Instance of Restaurant at 91 out of 100
+Statistics: 
+Cashiers:            10
+Total customers:     45
+Total order time:    188
+Total wait time:     188
+Average wait time:   4
+One line:            true
+Average Line Length: 1
+
+End of statistics for instance of restaurant at 91out of 100
+----------------------------------------------------------------------
+----------------------------------------------------------------------
+Instance of Restaurant at 92 out of 100
+Statistics: 
+Cashiers:            10
+Total customers:     45
+Total order time:    188
+Total wait time:     188
+Average wait time:   4
+One line:            true
+Average Line Length: 1
+
+End of statistics for instance of restaurant at 92out of 100
+----------------------------------------------------------------------
+----------------------------------------------------------------------
+Instance of Restaurant at 93 out of 100
+Statistics: 
+Cashiers:            10
+Total customers:     46
+Total order time:    189
+Total wait time:     189
+Average wait time:   4
+One line:            true
+Average Line Length: 1
+
+End of statistics for instance of restaurant at 93out of 100
+----------------------------------------------------------------------
+----------------------------------------------------------------------
+Instance of Restaurant at 94 out of 100
+Statistics: 
+Cashiers:            10
+Total customers:     46
+Total order time:    189
+Total wait time:     189
+Average wait time:   4
+One line:            true
+Average Line Length: 1
+
+End of statistics for instance of restaurant at 94out of 100
+----------------------------------------------------------------------
+----------------------------------------------------------------------
+Instance of Restaurant at 95 out of 100
+Statistics: 
+Cashiers:            10
+Total customers:     47
+Total order time:    196
+Total wait time:     196
+Average wait time:   4
+One line:            true
+Average Line Length: 1
+
+End of statistics for instance of restaurant at 95out of 100
+----------------------------------------------------------------------
+----------------------------------------------------------------------
+Instance of Restaurant at 96 out of 100
+Statistics: 
+Cashiers:            10
+Total customers:     47
+Total order time:    196
+Total wait time:     196
+Average wait time:   4
+One line:            true
+Average Line Length: 1
+
+End of statistics for instance of restaurant at 96out of 100
+----------------------------------------------------------------------
+----------------------------------------------------------------------
+Instance of Restaurant at 97 out of 100
+Statistics: 
+Cashiers:            10
+Total customers:     47
+Total order time:    196
+Total wait time:     196
+Average wait time:   4
+One line:            true
+Average Line Length: 1
+
+End of statistics for instance of restaurant at 97out of 100
+----------------------------------------------------------------------
+----------------------------------------------------------------------
+Instance of Restaurant at 98 out of 100
+Statistics: 
+Cashiers:            10
+Total customers:     48
+Total order time:    198
+Total wait time:     198
+Average wait time:   4
+One line:            true
+Average Line Length: 1
+
+End of statistics for instance of restaurant at 98out of 100
+----------------------------------------------------------------------
+----------------------------------------------------------------------
+Instance of Restaurant at 99 out of 100
+Statistics: 
+Cashiers:            10
+Total customers:     49
+Total order time:    208
+Total wait time:     208
+Average wait time:   4
+One line:            true
+Average Line Length: 1
+
+End of statistics for instance of restaurant at 99out of 100
+----------------------------------------------------------------------
+----------------------------------------------------------------------
+Instance of Restaurant at 100 out of 100
+Statistics: 
+Cashiers:            10
+Total customers:     49
+Total order time:    208
+Total wait time:     208
+Average wait time:   4
+One line:            true
+Average Line Length: 1
+
+End of statistics for instance of restaurant at 100out of 100
+----------------------------------------------------------------------
+----------------------------------------------------------------------
+Instance of Restaurant at 1 out of 10
+Cashiers:            10
+
+{Customers in Line: 0, customers served: 0, free time: 0, time to fill order: 1} 0: {Order time: 1, wait time: 0} <- End
+{Customers in Line: 0, customers served: 0, free time: 1, time to fill order: 0} 1: None
+{Customers in Line: 0, customers served: 0, free time: 1, time to fill order: 0} 2: None
+{Customers in Line: 0, customers served: 0, free time: 1, time to fill order: 0} 3: None
+{Customers in Line: 0, customers served: 0, free time: 1, time to fill order: 0} 4: None
+{Customers in Line: 0, customers served: 0, free time: 1, time to fill order: 0} 5: None
+{Customers in Line: 0, customers served: 0, free time: 1, time to fill order: 0} 6: None
+{Customers in Line: 0, customers served: 0, free time: 1, time to fill order: 0} 7: None
+{Customers in Line: 0, customers served: 0, free time: 1, time to fill order: 0} 8: None
+{Customers in Line: 0, customers served: 0, free time: 1, time to fill order: 0} 9: None
+
+End of scenario for instance of restaurant at 1out of 10
+----------------------------------------------------------------------
+----------------------------------------------------------------------
+Instance of Restaurant at 1 out of 10
+Statistics: 
+Cashiers:            10
+Total customers:     0
+Total order time:    0
+Total wait time:     0
+Average wait time:   0
+One line:            true
+Average Line Length: 1
+
+End of statistics for instance of restaurant at 1out of 10
+----------------------------------------------------------------------
+----------------------------------------------------------------------
+Instance of Restaurant at 2 out of 10
+Cashiers:            10
+
+{Customers in Line: 0, customers served: 1, free time: 0, time to fill order: 0} 0: None
+{Customers in Line: 0, customers served: 0, free time: 1, time to fill order: 1} 1: {Order time: 1, wait time: 0} <- End
+{Customers in Line: 0, customers served: 0, free time: 2, time to fill order: 0} 2: None
+{Customers in Line: 0, customers served: 0, free time: 2, time to fill order: 0} 3: None
+{Customers in Line: 0, customers served: 0, free time: 2, time to fill order: 0} 4: None
+{Customers in Line: 0, customers served: 0, free time: 2, time to fill order: 0} 5: None
+{Customers in Line: 0, customers served: 0, free time: 2, time to fill order: 0} 6: None
+{Customers in Line: 0, customers served: 0, free time: 2, time to fill order: 0} 7: None
+{Customers in Line: 0, customers served: 0, free time: 2, time to fill order: 0} 8: None
+{Customers in Line: 0, customers served: 0, free time: 2, time to fill order: 0} 9: None
+
+End of scenario for instance of restaurant at 2out of 10
+----------------------------------------------------------------------
+----------------------------------------------------------------------
+Instance of Restaurant at 2 out of 10
+Statistics: 
+Cashiers:            10
+Total customers:     1
+Total order time:    1
+Total wait time:     1
+Average wait time:   1
+One line:            true
+Average Line Length: 1
+
+End of statistics for instance of restaurant at 2out of 10
+----------------------------------------------------------------------
+----------------------------------------------------------------------
+Instance of Restaurant at 3 out of 10
+Cashiers:            10
+
+{Customers in Line: 0, customers served: 1, free time: 1, time to fill order: 0} 0: None
+{Customers in Line: 0, customers served: 1, free time: 1, time to fill order: 0} 1: None
+{Customers in Line: 0, customers served: 0, free time: 3, time to fill order: 0} 2: None
+{Customers in Line: 0, customers served: 0, free time: 3, time to fill order: 0} 3: None
+{Customers in Line: 0, customers served: 0, free time: 3, time to fill order: 0} 4: None
+{Customers in Line: 0, customers served: 0, free time: 3, time to fill order: 0} 5: None
+{Customers in Line: 0, customers served: 0, free time: 3, time to fill order: 0} 6: None
+{Customers in Line: 0, customers served: 0, free time: 3, time to fill order: 0} 7: None
+{Customers in Line: 0, customers served: 0, free time: 3, time to fill order: 0} 8: None
+{Customers in Line: 0, customers served: 0, free time: 3, time to fill order: 0} 9: None
+
+End of scenario for instance of restaurant at 3out of 10
+----------------------------------------------------------------------
+----------------------------------------------------------------------
+Instance of Restaurant at 3 out of 10
+Statistics: 
+Cashiers:            10
+Total customers:     2
+Total order time:    2
+Total wait time:     2
+Average wait time:   1
+One line:            true
+Average Line Length: 1
+
+End of statistics for instance of restaurant at 3out of 10
+----------------------------------------------------------------------
+----------------------------------------------------------------------
+Instance of Restaurant at 4 out of 10
+Cashiers:            10
+
+{Customers in Line: 0, customers served: 1, free time: 2, time to fill order: 0} 0: None
+{Customers in Line: 0, customers served: 1, free time: 2, time to fill order: 0} 1: None
+{Customers in Line: 0, customers served: 0, free time: 4, time to fill order: 0} 2: None
+{Customers in Line: 0, customers served: 0, free time: 4, time to fill order: 0} 3: None
+{Customers in Line: 0, customers served: 0, free time: 4, time to fill order: 0} 4: None
+{Customers in Line: 0, customers served: 0, free time: 4, time to fill order: 0} 5: None
+{Customers in Line: 0, customers served: 0, free time: 4, time to fill order: 0} 6: None
+{Customers in Line: 0, customers served: 0, free time: 4, time to fill order: 0} 7: None
+{Customers in Line: 0, customers served: 0, free time: 4, time to fill order: 0} 8: None
+{Customers in Line: 0, customers served: 0, free time: 4, time to fill order: 0} 9: None
+
+End of scenario for instance of restaurant at 4out of 10
+----------------------------------------------------------------------
+----------------------------------------------------------------------
+Instance of Restaurant at 4 out of 10
+Statistics: 
+Cashiers:            10
+Total customers:     2
+Total order time:    2
+Total wait time:     2
+Average wait time:   1
+One line:            true
+Average Line Length: 1
+
+End of statistics for instance of restaurant at 4out of 10
+----------------------------------------------------------------------
+----------------------------------------------------------------------
+Instance of Restaurant at 5 out of 10
+Cashiers:            10
+
+{Customers in Line: 0, customers served: 1, free time: 3, time to fill order: 0} 0: None
+{Customers in Line: 0, customers served: 1, free time: 3, time to fill order: 0} 1: None
+{Customers in Line: 0, customers served: 0, free time: 5, time to fill order: 0} 2: None
+{Customers in Line: 0, customers served: 0, free time: 5, time to fill order: 0} 3: None
+{Customers in Line: 0, customers served: 0, free time: 5, time to fill order: 0} 4: None
+{Customers in Line: 0, customers served: 0, free time: 5, time to fill order: 0} 5: None
+{Customers in Line: 0, customers served: 0, free time: 5, time to fill order: 0} 6: None
+{Customers in Line: 0, customers served: 0, free time: 5, time to fill order: 0} 7: None
+{Customers in Line: 0, customers served: 0, free time: 5, time to fill order: 0} 8: None
+{Customers in Line: 0, customers served: 0, free time: 5, time to fill order: 0} 9: None
+
+End of scenario for instance of restaurant at 5out of 10
+----------------------------------------------------------------------
+----------------------------------------------------------------------
+Instance of Restaurant at 5 out of 10
+Statistics: 
+Cashiers:            10
+Total customers:     2
+Total order time:    2
+Total wait time:     2
+Average wait time:   1
+One line:            true
+Average Line Length: 1
+
+End of statistics for instance of restaurant at 5out of 10
+----------------------------------------------------------------------
+----------------------------------------------------------------------
+Instance of Restaurant at 6 out of 10
+Cashiers:            10
+
+{Customers in Line: 0, customers served: 1, free time: 3, time to fill order: 2} 0: {Order time: 2, wait time: 0} <- End
+{Customers in Line: 0, customers served: 1, free time: 4, time to fill order: 0} 1: None
+{Customers in Line: 0, customers served: 0, free time: 6, time to fill order: 0} 2: None
+{Customers in Line: 0, customers served: 0, free time: 6, time to fill order: 0} 3: None
+{Customers in Line: 0, customers served: 0, free time: 6, time to fill order: 0} 4: None
+{Customers in Line: 0, customers served: 0, free time: 6, time to fill order: 0} 5: None
+{Customers in Line: 0, customers served: 0, free time: 6, time to fill order: 0} 6: None
+{Customers in Line: 0, customers served: 0, free time: 6, time to fill order: 0} 7: None
+{Customers in Line: 0, customers served: 0, free time: 6, time to fill order: 0} 8: None
+{Customers in Line: 0, customers served: 0, free time: 6, time to fill order: 0} 9: None
+
+End of scenario for instance of restaurant at 6out of 10
+----------------------------------------------------------------------
+----------------------------------------------------------------------
+Instance of Restaurant at 6 out of 10
+Statistics: 
+Cashiers:            10
+Total customers:     2
+Total order time:    2
+Total wait time:     2
+Average wait time:   1
+One line:            true
+Average Line Length: 1
+
+End of statistics for instance of restaurant at 6out of 10
+----------------------------------------------------------------------
+----------------------------------------------------------------------
+Instance of Restaurant at 7 out of 10
+Cashiers:            10
+
+{Customers in Line: 0, customers served: 1, free time: 3, time to fill order: 1} 0: {Order time: 2, wait time: 1} <- End
+{Customers in Line: 0, customers served: 1, free time: 4, time to fill order: 1} 1: {Order time: 1, wait time: 0} <- End
+{Customers in Line: 0, customers served: 0, free time: 7, time to fill order: 0} 2: None
+{Customers in Line: 0, customers served: 0, free time: 7, time to fill order: 0} 3: None
+{Customers in Line: 0, customers served: 0, free time: 7, time to fill order: 0} 4: None
+{Customers in Line: 0, customers served: 0, free time: 7, time to fill order: 0} 5: None
+{Customers in Line: 0, customers served: 0, free time: 7, time to fill order: 0} 6: None
+{Customers in Line: 0, customers served: 0, free time: 7, time to fill order: 0} 7: None
+{Customers in Line: 0, customers served: 0, free time: 7, time to fill order: 0} 8: None
+{Customers in Line: 0, customers served: 0, free time: 7, time to fill order: 0} 9: None
+
+End of scenario for instance of restaurant at 7out of 10
+----------------------------------------------------------------------
+----------------------------------------------------------------------
+Instance of Restaurant at 7 out of 10
+Statistics: 
+Cashiers:            10
+Total customers:     2
+Total order time:    2
+Total wait time:     2
+Average wait time:   1
+One line:            true
+Average Line Length: 1
+
+End of statistics for instance of restaurant at 7out of 10
+----------------------------------------------------------------------
+----------------------------------------------------------------------
+Instance of Restaurant at 8 out of 10
+Cashiers:            10
+
+{Customers in Line: 0, customers served: 2, free time: 3, time to fill order: 0} 0: None
+{Customers in Line: 0, customers served: 2, free time: 4, time to fill order: 0} 1: None
+{Customers in Line: 0, customers served: 0, free time: 7, time to fill order: 1} 2: {Order time: 1, wait time: 0} <- End
+{Customers in Line: 0, customers served: 0, free time: 8, time to fill order: 0} 3: None
+{Customers in Line: 0, customers served: 0, free time: 8, time to fill order: 0} 4: None
+{Customers in Line: 0, customers served: 0, free time: 8, time to fill order: 0} 5: None
+{Customers in Line: 0, customers served: 0, free time: 8, time to fill order: 0} 6: None
+{Customers in Line: 0, customers served: 0, free time: 8, time to fill order: 0} 7: None
+{Customers in Line: 0, customers served: 0, free time: 8, time to fill order: 0} 8: None
+{Customers in Line: 0, customers served: 0, free time: 8, time to fill order: 0} 9: None
+
+End of scenario for instance of restaurant at 8out of 10
+----------------------------------------------------------------------
+----------------------------------------------------------------------
+Instance of Restaurant at 8 out of 10
+Statistics: 
+Cashiers:            10
+Total customers:     4
+Total order time:    5
+Total wait time:     5
+Average wait time:   1
+One line:            true
+Average Line Length: 1
+
+End of statistics for instance of restaurant at 8out of 10
+----------------------------------------------------------------------
+----------------------------------------------------------------------
+Instance of Restaurant at 9 out of 10
+Cashiers:            10
+
+{Customers in Line: 0, customers served: 2, free time: 3, time to fill order: 1} 0: {Order time: 1, wait time: 0} <- End
+{Customers in Line: 0, customers served: 2, free time: 5, time to fill order: 0} 1: None
+{Customers in Line: 0, customers served: 1, free time: 7, time to fill order: 0} 2: None
+{Customers in Line: 0, customers served: 0, free time: 9, time to fill order: 0} 3: None
+{Customers in Line: 0, customers served: 0, free time: 9, time to fill order: 0} 4: None
+{Customers in Line: 0, customers served: 0, free time: 9, time to fill order: 0} 5: None
+{Customers in Line: 0, customers served: 0, free time: 9, time to fill order: 0} 6: None
+{Customers in Line: 0, customers served: 0, free time: 9, time to fill order: 0} 7: None
+{Customers in Line: 0, customers served: 0, free time: 9, time to fill order: 0} 8: None
+{Customers in Line: 0, customers served: 0, free time: 9, time to fill order: 0} 9: None
+
+End of scenario for instance of restaurant at 9out of 10
+----------------------------------------------------------------------
+----------------------------------------------------------------------
+Instance of Restaurant at 9 out of 10
+Statistics: 
+Cashiers:            10
+Total customers:     5
+Total order time:    6
+Total wait time:     6
+Average wait time:   1
+One line:            true
+Average Line Length: 1
+
+End of statistics for instance of restaurant at 9out of 10
+----------------------------------------------------------------------
+----------------------------------------------------------------------
+Instance of Restaurant at 10 out of 10
+Cashiers:            10
+
+{Customers in Line: 0, customers served: 3, free time: 3, time to fill order: 0} 0: None
+{Customers in Line: 0, customers served: 2, free time: 6, time to fill order: 0} 1: None
+{Customers in Line: 0, customers served: 1, free time: 8, time to fill order: 0} 2: None
+{Customers in Line: 0, customers served: 0, free time: 10, time to fill order: 0} 3: None
+{Customers in Line: 0, customers served: 0, free time: 10, time to fill order: 0} 4: None
+{Customers in Line: 0, customers served: 0, free time: 10, time to fill order: 0} 5: None
+{Customers in Line: 0, customers served: 0, free time: 10, time to fill order: 0} 6: None
+{Customers in Line: 0, customers served: 0, free time: 10, time to fill order: 0} 7: None
+{Customers in Line: 0, customers served: 0, free time: 10, time to fill order: 0} 8: None
+{Customers in Line: 0, customers served: 0, free time: 10, time to fill order: 0} 9: None
+
+End of scenario for instance of restaurant at 10out of 10
+----------------------------------------------------------------------
+----------------------------------------------------------------------
+Instance of Restaurant at 10 out of 10
+Statistics: 
+Cashiers:            10
+Total customers:     6
+Total order time:    7
+Total wait time:     7
+Average wait time:   1
+One line:            true
+Average Line Length: 1
+
+End of statistics for instance of restaurant at 10out of 10
+----------------------------------------------------------------------
+----------------------------------------------------------------------
+Instance of Restaurant at 1 out of 100
+Cashiers:            10
+
+{Customers in Line: 0, customers served: 0, free time: 1, time to fill order: 0} 0: None
+{Customers in Line: 0, customers served: 0, free time: 1, time to fill order: 0} 1: None
+{Customers in Line: 0, customers served: 0, free time: 1, time to fill order: 0} 2: None
+{Customers in Line: 0, customers served: 0, free time: 1, time to fill order: 0} 3: None
+{Customers in Line: 0, customers served: 0, free time: 1, time to fill order: 0} 4: None
+{Customers in Line: 0, customers served: 0, free time: 1, time to fill order: 0} 5: None
+{Customers in Line: 0, customers served: 0, free time: 1, time to fill order: 0} 6: None
+{Customers in Line: 0, customers served: 0, free time: 1, time to fill order: 0} 7: None
+{Customers in Line: 0, customers served: 0, free time: 1, time to fill order: 0} 8: None
+{Customers in Line: 0, customers served: 0, free time: 1, time to fill order: 0} 9: None
+
+End of scenario for instance of restaurant at 1out of 100
+----------------------------------------------------------------------
+----------------------------------------------------------------------
+Instance of Restaurant at 2 out of 100
+Cashiers:            10
+
+{Customers in Line: 0, customers served: 0, free time: 2, time to fill order: 0} 0: None
+{Customers in Line: 0, customers served: 0, free time: 2, time to fill order: 0} 1: None
+{Customers in Line: 0, customers served: 0, free time: 2, time to fill order: 0} 2: None
+{Customers in Line: 0, customers served: 0, free time: 2, time to fill order: 0} 3: None
+{Customers in Line: 0, customers served: 0, free time: 2, time to fill order: 0} 4: None
+{Customers in Line: 0, customers served: 0, free time: 2, time to fill order: 0} 5: None
+{Customers in Line: 0, customers served: 0, free time: 2, time to fill order: 0} 6: None
+{Customers in Line: 0, customers served: 0, free time: 2, time to fill order: 0} 7: None
+{Customers in Line: 0, customers served: 0, free time: 2, time to fill order: 0} 8: None
+{Customers in Line: 0, customers served: 0, free time: 2, time to fill order: 0} 9: None
+
+End of scenario for instance of restaurant at 2out of 100
+----------------------------------------------------------------------
+----------------------------------------------------------------------
+Instance of Restaurant at 3 out of 100
+Cashiers:            10
+
+{Customers in Line: 0, customers served: 0, free time: 2, time to fill order: 1} 0: {Order time: 1, wait time: 0} <- End
+{Customers in Line: 0, customers served: 0, free time: 3, time to fill order: 0} 1: None
+{Customers in Line: 0, customers served: 0, free time: 3, time to fill order: 0} 2: None
+{Customers in Line: 0, customers served: 0, free time: 3, time to fill order: 0} 3: None
+{Customers in Line: 0, customers served: 0, free time: 3, time to fill order: 0} 4: None
+{Customers in Line: 0, customers served: 0, free time: 3, time to fill order: 0} 5: None
+{Customers in Line: 0, customers served: 0, free time: 3, time to fill order: 0} 6: None
+{Customers in Line: 0, customers served: 0, free time: 3, time to fill order: 0} 7: None
+{Customers in Line: 0, customers served: 0, free time: 3, time to fill order: 0} 8: None
+{Customers in Line: 0, customers served: 0, free time: 3, time to fill order: 0} 9: None
+
+End of scenario for instance of restaurant at 3out of 100
+----------------------------------------------------------------------
+----------------------------------------------------------------------
+Instance of Restaurant at 4 out of 100
+Cashiers:            10
+
+{Customers in Line: 0, customers served: 1, free time: 2, time to fill order: 0} 0: None
+{Customers in Line: 0, customers served: 0, free time: 4, time to fill order: 0} 1: None
+{Customers in Line: 0, customers served: 0, free time: 4, time to fill order: 0} 2: None
+{Customers in Line: 0, customers served: 0, free time: 4, time to fill order: 0} 3: None
+{Customers in Line: 0, customers served: 0, free time: 4, time to fill order: 0} 4: None
+{Customers in Line: 0, customers served: 0, free time: 4, time to fill order: 0} 5: None
+{Customers in Line: 0, customers served: 0, free time: 4, time to fill order: 0} 6: None
+{Customers in Line: 0, customers served: 0, free time: 4, time to fill order: 0} 7: None
+{Customers in Line: 0, customers served: 0, free time: 4, time to fill order: 0} 8: None
+{Customers in Line: 0, customers served: 0, free time: 4, time to fill order: 0} 9: None
+
+End of scenario for instance of restaurant at 4out of 100
+----------------------------------------------------------------------
+----------------------------------------------------------------------
+Instance of Restaurant at 5 out of 100
+Cashiers:            10
+
+{Customers in Line: 0, customers served: 1, free time: 2, time to fill order: 1} 0: {Order time: 1, wait time: 0} <- End
+{Customers in Line: 0, customers served: 0, free time: 5, time to fill order: 0} 1: None
+{Customers in Line: 0, customers served: 0, free time: 5, time to fill order: 0} 2: None
+{Customers in Line: 0, customers served: 0, free time: 5, time to fill order: 0} 3: None
+{Customers in Line: 0, customers served: 0, free time: 5, time to fill order: 0} 4: None
+{Customers in Line: 0, customers served: 0, free time: 5, time to fill order: 0} 5: None
+{Customers in Line: 0, customers served: 0, free time: 5, time to fill order: 0} 6: None
+{Customers in Line: 0, customers served: 0, free time: 5, time to fill order: 0} 7: None
+{Customers in Line: 0, customers served: 0, free time: 5, time to fill order: 0} 8: None
+{Customers in Line: 0, customers served: 0, free time: 5, time to fill order: 0} 9: None
+
+End of scenario for instance of restaurant at 5out of 100
+----------------------------------------------------------------------
+----------------------------------------------------------------------
+Instance of Restaurant at 6 out of 100
+Cashiers:            10
+
+{Customers in Line: 0, customers served: 2, free time: 2, time to fill order: 0} 0: None
+{Customers in Line: 0, customers served: 0, free time: 5, time to fill order: 1} 1: {Order time: 1, wait time: 0} <- End
+{Customers in Line: 0, customers served: 0, free time: 6, time to fill order: 0} 2: None
+{Customers in Line: 0, customers served: 0, free time: 6, time to fill order: 0} 3: None
+{Customers in Line: 0, customers served: 0, free time: 6, time to fill order: 0} 4: None
+{Customers in Line: 0, customers served: 0, free time: 6, time to fill order: 0} 5: None
+{Customers in Line: 0, customers served: 0, free time: 6, time to fill order: 0} 6: None
+{Customers in Line: 0, customers served: 0, free time: 6, time to fill order: 0} 7: None
+{Customers in Line: 0, customers served: 0, free time: 6, time to fill order: 0} 8: None
+{Customers in Line: 0, customers served: 0, free time: 6, time to fill order: 0} 9: None
+
+End of scenario for instance of restaurant at 6out of 100
+----------------------------------------------------------------------
+----------------------------------------------------------------------
+Instance of Restaurant at 7 out of 100
+Cashiers:            10
+
+{Customers in Line: 0, customers served: 2, free time: 2, time to fill order: 1} 0: {Order time: 1, wait time: 0} <- End
+{Customers in Line: 0, customers served: 1, free time: 5, time to fill order: 0} 1: None
+{Customers in Line: 0, customers served: 0, free time: 7, time to fill order: 0} 2: None
+{Customers in Line: 0, customers served: 0, free time: 7, time to fill order: 0} 3: None
+{Customers in Line: 0, customers served: 0, free time: 7, time to fill order: 0} 4: None
+{Customers in Line: 0, customers served: 0, free time: 7, time to fill order: 0} 5: None
+{Customers in Line: 0, customers served: 0, free time: 7, time to fill order: 0} 6: None
+{Customers in Line: 0, customers served: 0, free time: 7, time to fill order: 0} 7: None
+{Customers in Line: 0, customers served: 0, free time: 7, time to fill order: 0} 8: None
+{Customers in Line: 0, customers served: 0, free time: 7, time to fill order: 0} 9: None
+
+End of scenario for instance of restaurant at 7out of 100
+----------------------------------------------------------------------
+----------------------------------------------------------------------
+Instance of Restaurant at 8 out of 100
+Cashiers:            10
+
+{Customers in Line: 0, customers served: 3, free time: 2, time to fill order: 0} 0: None
+{Customers in Line: 0, customers served: 1, free time: 5, time to fill order: 2} 1: {Order time: 2, wait time: 0} <- End
+{Customers in Line: 0, customers served: 0, free time: 8, time to fill order: 0} 2: None
+{Customers in Line: 0, customers served: 0, free time: 8, time to fill order: 0} 3: None
+{Customers in Line: 0, customers served: 0, free time: 8, time to fill order: 0} 4: None
+{Customers in Line: 0, customers served: 0, free time: 8, time to fill order: 0} 5: None
+{Customers in Line: 0, customers served: 0, free time: 8, time to fill order: 0} 6: None
+{Customers in Line: 0, customers served: 0, free time: 8, time to fill order: 0} 7: None
+{Customers in Line: 0, customers served: 0, free time: 8, time to fill order: 0} 8: None
+{Customers in Line: 0, customers served: 0, free time: 8, time to fill order: 0} 9: None
+
+End of scenario for instance of restaurant at 8out of 100
+----------------------------------------------------------------------
+----------------------------------------------------------------------
+Instance of Restaurant at 9 out of 100
+Cashiers:            10
+
+{Customers in Line: 0, customers served: 3, free time: 2, time to fill order: 1} 0: {Order time: 1, wait time: 0} <- End
+{Customers in Line: 0, customers served: 1, free time: 5, time to fill order: 1} 1: {Order time: 2, wait time: 1} <- End
+{Customers in Line: 0, customers served: 0, free time: 9, time to fill order: 0} 2: None
+{Customers in Line: 0, customers served: 0, free time: 9, time to fill order: 0} 3: None
+{Customers in Line: 0, customers served: 0, free time: 9, time to fill order: 0} 4: None
+{Customers in Line: 0, customers served: 0, free time: 9, time to fill order: 0} 5: None
+{Customers in Line: 0, customers served: 0, free time: 9, time to fill order: 0} 6: None
+{Customers in Line: 0, customers served: 0, free time: 9, time to fill order: 0} 7: None
+{Customers in Line: 0, customers served: 0, free time: 9, time to fill order: 0} 8: None
+{Customers in Line: 0, customers served: 0, free time: 9, time to fill order: 0} 9: None
+
+End of scenario for instance of restaurant at 9out of 100
+----------------------------------------------------------------------
+----------------------------------------------------------------------
+Instance of Restaurant at 10 out of 100
+Cashiers:            10
+
+{Customers in Line: 0, customers served: 4, free time: 2, time to fill order: 0} 0: None
+{Customers in Line: 0, customers served: 2, free time: 5, time to fill order: 0} 1: None
+{Customers in Line: 0, customers served: 0, free time: 9, time to fill order: 1} 2: {Order time: 1, wait time: 0} <- End
+{Customers in Line: 0, customers served: 0, free time: 10, time to fill order: 0} 3: None
+{Customers in Line: 0, customers served: 0, free time: 10, time to fill order: 0} 4: None
+{Customers in Line: 0, customers served: 0, free time: 10, time to fill order: 0} 5: None
+{Customers in Line: 0, customers served: 0, free time: 10, time to fill order: 0} 6: None
+{Customers in Line: 0, customers served: 0, free time: 10, time to fill order: 0} 7: None
+{Customers in Line: 0, customers served: 0, free time: 10, time to fill order: 0} 8: None
+{Customers in Line: 0, customers served: 0, free time: 10, time to fill order: 0} 9: None
+
+End of scenario for instance of restaurant at 10out of 100
+----------------------------------------------------------------------
+----------------------------------------------------------------------
+Instance of Restaurant at 11 out of 100
+Cashiers:            10
+
+{Customers in Line: 0, customers served: 4, free time: 3, time to fill order: 0} 0: None
+{Customers in Line: 0, customers served: 2, free time: 6, time to fill order: 0} 1: None
+{Customers in Line: 0, customers served: 1, free time: 9, time to fill order: 0} 2: None
+{Customers in Line: 0, customers served: 0, free time: 11, time to fill order: 0} 3: None
+{Customers in Line: 0, customers served: 0, free time: 11, time to fill order: 0} 4: None
+{Customers in Line: 0, customers served: 0, free time: 11, time to fill order: 0} 5: None
+{Customers in Line: 0, customers served: 0, free time: 11, time to fill order: 0} 6: None
+{Customers in Line: 0, customers served: 0, free time: 11, time to fill order: 0} 7: None
+{Customers in Line: 0, customers served: 0, free time: 11, time to fill order: 0} 8: None
+{Customers in Line: 0, customers served: 0, free time: 11, time to fill order: 0} 9: None
+
+End of scenario for instance of restaurant at 11out of 100
+----------------------------------------------------------------------
+----------------------------------------------------------------------
+Instance of Restaurant at 12 out of 100
+Cashiers:            10
+
+{Customers in Line: 0, customers served: 4, free time: 4, time to fill order: 0} 0: None
+{Customers in Line: 0, customers served: 2, free time: 7, time to fill order: 0} 1: None
+{Customers in Line: 0, customers served: 1, free time: 10, time to fill order: 0} 2: None
+{Customers in Line: 0, customers served: 0, free time: 12, time to fill order: 0} 3: None
+{Customers in Line: 0, customers served: 0, free time: 12, time to fill order: 0} 4: None
+{Customers in Line: 0, customers served: 0, free time: 12, time to fill order: 0} 5: None
+{Customers in Line: 0, customers served: 0, free time: 12, time to fill order: 0} 6: None
+{Customers in Line: 0, customers served: 0, free time: 12, time to fill order: 0} 7: None
+{Customers in Line: 0, customers served: 0, free time: 12, time to fill order: 0} 8: None
+{Customers in Line: 0, customers served: 0, free time: 12, time to fill order: 0} 9: None
+
+End of scenario for instance of restaurant at 12out of 100
+----------------------------------------------------------------------
+----------------------------------------------------------------------
+Instance of Restaurant at 13 out of 100
+Cashiers:            10
+
+{Customers in Line: 0, customers served: 4, free time: 5, time to fill order: 0} 0: None
+{Customers in Line: 0, customers served: 2, free time: 8, time to fill order: 0} 1: None
+{Customers in Line: 0, customers served: 1, free time: 11, time to fill order: 0} 2: None
+{Customers in Line: 0, customers served: 0, free time: 13, time to fill order: 0} 3: None
+{Customers in Line: 0, customers served: 0, free time: 13, time to fill order: 0} 4: None
+{Customers in Line: 0, customers served: 0, free time: 13, time to fill order: 0} 5: None
+{Customers in Line: 0, customers served: 0, free time: 13, time to fill order: 0} 6: None
+{Customers in Line: 0, customers served: 0, free time: 13, time to fill order: 0} 7: None
+{Customers in Line: 0, customers served: 0, free time: 13, time to fill order: 0} 8: None
+{Customers in Line: 0, customers served: 0, free time: 13, time to fill order: 0} 9: None
+
+End of scenario for instance of restaurant at 13out of 100
+----------------------------------------------------------------------
+----------------------------------------------------------------------
+Instance of Restaurant at 14 out of 100
+Cashiers:            10
+
+{Customers in Line: 0, customers served: 4, free time: 5, time to fill order: 2} 0: {Order time: 2, wait time: 0} <- End
+{Customers in Line: 0, customers served: 2, free time: 9, time to fill order: 0} 1: None
+{Customers in Line: 0, customers served: 1, free time: 12, time to fill order: 0} 2: None
+{Customers in Line: 0, customers served: 0, free time: 14, time to fill order: 0} 3: None
+{Customers in Line: 0, customers served: 0, free time: 14, time to fill order: 0} 4: None
+{Customers in Line: 0, customers served: 0, free time: 14, time to fill order: 0} 5: None
+{Customers in Line: 0, customers served: 0, free time: 14, time to fill order: 0} 6: None
+{Customers in Line: 0, customers served: 0, free time: 14, time to fill order: 0} 7: None
+{Customers in Line: 0, customers served: 0, free time: 14, time to fill order: 0} 8: None
+{Customers in Line: 0, customers served: 0, free time: 14, time to fill order: 0} 9: None
+
+End of scenario for instance of restaurant at 14out of 100
+----------------------------------------------------------------------
+----------------------------------------------------------------------
+Instance of Restaurant at 15 out of 100
+Cashiers:            10
+
+{Customers in Line: 0, customers served: 4, free time: 5, time to fill order: 1} 0: {Order time: 2, wait time: 1} <- End
+{Customers in Line: 0, customers served: 2, free time: 10, time to fill order: 0} 1: None
+{Customers in Line: 0, customers served: 1, free time: 13, time to fill order: 0} 2: None
+{Customers in Line: 0, customers served: 0, free time: 15, time to fill order: 0} 3: None
+{Customers in Line: 0, customers served: 0, free time: 15, time to fill order: 0} 4: None
+{Customers in Line: 0, customers served: 0, free time: 15, time to fill order: 0} 5: None
+{Customers in Line: 0, customers served: 0, free time: 15, time to fill order: 0} 6: None
+{Customers in Line: 0, customers served: 0, free time: 15, time to fill order: 0} 7: None
+{Customers in Line: 0, customers served: 0, free time: 15, time to fill order: 0} 8: None
+{Customers in Line: 0, customers served: 0, free time: 15, time to fill order: 0} 9: None
+
+End of scenario for instance of restaurant at 15out of 100
+----------------------------------------------------------------------
+----------------------------------------------------------------------
+Instance of Restaurant at 16 out of 100
+Cashiers:            10
+
+{Customers in Line: 0, customers served: 5, free time: 5, time to fill order: 0} 0: None
+{Customers in Line: 0, customers served: 2, free time: 11, time to fill order: 0} 1: None
+{Customers in Line: 0, customers served: 1, free time: 14, time to fill order: 0} 2: None
+{Customers in Line: 0, customers served: 0, free time: 16, time to fill order: 0} 3: None
+{Customers in Line: 0, customers served: 0, free time: 16, time to fill order: 0} 4: None
+{Customers in Line: 0, customers served: 0, free time: 16, time to fill order: 0} 5: None
+{Customers in Line: 0, customers served: 0, free time: 16, time to fill order: 0} 6: None
+{Customers in Line: 0, customers served: 0, free time: 16, time to fill order: 0} 7: None
+{Customers in Line: 0, customers served: 0, free time: 16, time to fill order: 0} 8: None
+{Customers in Line: 0, customers served: 0, free time: 16, time to fill order: 0} 9: None
+
+End of scenario for instance of restaurant at 16out of 100
+----------------------------------------------------------------------
+----------------------------------------------------------------------
+Instance of Restaurant at 17 out of 100
+Cashiers:            10
+
+{Customers in Line: 0, customers served: 5, free time: 6, time to fill order: 0} 0: None
+{Customers in Line: 0, customers served: 2, free time: 12, time to fill order: 0} 1: None
+{Customers in Line: 0, customers served: 1, free time: 15, time to fill order: 0} 2: None
+{Customers in Line: 0, customers served: 0, free time: 17, time to fill order: 0} 3: None
+{Customers in Line: 0, customers served: 0, free time: 17, time to fill order: 0} 4: None
+{Customers in Line: 0, customers served: 0, free time: 17, time to fill order: 0} 5: None
+{Customers in Line: 0, customers served: 0, free time: 17, time to fill order: 0} 6: None
+{Customers in Line: 0, customers served: 0, free time: 17, time to fill order: 0} 7: None
+{Customers in Line: 0, customers served: 0, free time: 17, time to fill order: 0} 8: None
+{Customers in Line: 0, customers served: 0, free time: 17, time to fill order: 0} 9: None
+
+End of scenario for instance of restaurant at 17out of 100
+----------------------------------------------------------------------
+----------------------------------------------------------------------
+Instance of Restaurant at 18 out of 100
+Cashiers:            10
+
+{Customers in Line: 0, customers served: 5, free time: 7, time to fill order: 0} 0: None
+{Customers in Line: 0, customers served: 2, free time: 13, time to fill order: 0} 1: None
+{Customers in Line: 0, customers served: 1, free time: 16, time to fill order: 0} 2: None
+{Customers in Line: 0, customers served: 0, free time: 18, time to fill order: 0} 3: None
+{Customers in Line: 0, customers served: 0, free time: 18, time to fill order: 0} 4: None
+{Customers in Line: 0, customers served: 0, free time: 18, time to fill order: 0} 5: None
+{Customers in Line: 0, customers served: 0, free time: 18, time to fill order: 0} 6: None
+{Customers in Line: 0, customers served: 0, free time: 18, time to fill order: 0} 7: None
+{Customers in Line: 0, customers served: 0, free time: 18, time to fill order: 0} 8: None
+{Customers in Line: 0, customers served: 0, free time: 18, time to fill order: 0} 9: None
+
+End of scenario for instance of restaurant at 18out of 100
+----------------------------------------------------------------------
+----------------------------------------------------------------------
+Instance of Restaurant at 19 out of 100
+Cashiers:            10
+
+{Customers in Line: 0, customers served: 5, free time: 8, time to fill order: 0} 0: None
+{Customers in Line: 0, customers served: 2, free time: 14, time to fill order: 0} 1: None
+{Customers in Line: 0, customers served: 1, free time: 17, time to fill order: 0} 2: None
+{Customers in Line: 0, customers served: 0, free time: 19, time to fill order: 0} 3: None
+{Customers in Line: 0, customers served: 0, free time: 19, time to fill order: 0} 4: None
+{Customers in Line: 0, customers served: 0, free time: 19, time to fill order: 0} 5: None
+{Customers in Line: 0, customers served: 0, free time: 19, time to fill order: 0} 6: None
+{Customers in Line: 0, customers served: 0, free time: 19, time to fill order: 0} 7: None
+{Customers in Line: 0, customers served: 0, free time: 19, time to fill order: 0} 8: None
+{Customers in Line: 0, customers served: 0, free time: 19, time to fill order: 0} 9: None
+
+End of scenario for instance of restaurant at 19out of 100
+----------------------------------------------------------------------
+----------------------------------------------------------------------
+Instance of Restaurant at 20 out of 100
+Cashiers:            10
+
+{Customers in Line: 0, customers served: 5, free time: 9, time to fill order: 0} 0: None
+{Customers in Line: 0, customers served: 2, free time: 15, time to fill order: 0} 1: None
+{Customers in Line: 0, customers served: 1, free time: 18, time to fill order: 0} 2: None
+{Customers in Line: 0, customers served: 0, free time: 20, time to fill order: 0} 3: None
+{Customers in Line: 0, customers served: 0, free time: 20, time to fill order: 0} 4: None
+{Customers in Line: 0, customers served: 0, free time: 20, time to fill order: 0} 5: None
+{Customers in Line: 0, customers served: 0, free time: 20, time to fill order: 0} 6: None
+{Customers in Line: 0, customers served: 0, free time: 20, time to fill order: 0} 7: None
+{Customers in Line: 0, customers served: 0, free time: 20, time to fill order: 0} 8: None
+{Customers in Line: 0, customers served: 0, free time: 20, time to fill order: 0} 9: None
+
+End of scenario for instance of restaurant at 20out of 100
+----------------------------------------------------------------------
+----------------------------------------------------------------------
+Instance of Restaurant at 21 out of 100
+Cashiers:            10
+
+{Customers in Line: 0, customers served: 5, free time: 9, time to fill order: 2} 0: {Order time: 2, wait time: 0} <- End
+{Customers in Line: 0, customers served: 2, free time: 16, time to fill order: 0} 1: None
+{Customers in Line: 0, customers served: 1, free time: 19, time to fill order: 0} 2: None
+{Customers in Line: 0, customers served: 0, free time: 21, time to fill order: 0} 3: None
+{Customers in Line: 0, customers served: 0, free time: 21, time to fill order: 0} 4: None
+{Customers in Line: 0, customers served: 0, free time: 21, time to fill order: 0} 5: None
+{Customers in Line: 0, customers served: 0, free time: 21, time to fill order: 0} 6: None
+{Customers in Line: 0, customers served: 0, free time: 21, time to fill order: 0} 7: None
+{Customers in Line: 0, customers served: 0, free time: 21, time to fill order: 0} 8: None
+{Customers in Line: 0, customers served: 0, free time: 21, time to fill order: 0} 9: None
+
+End of scenario for instance of restaurant at 21out of 100
+----------------------------------------------------------------------
+----------------------------------------------------------------------
+Instance of Restaurant at 22 out of 100
+Cashiers:            10
+
+{Customers in Line: 0, customers served: 5, free time: 9, time to fill order: 1} 0: {Order time: 2, wait time: 1} <- End
+{Customers in Line: 0, customers served: 2, free time: 17, time to fill order: 0} 1: None
+{Customers in Line: 0, customers served: 1, free time: 20, time to fill order: 0} 2: None
+{Customers in Line: 0, customers served: 0, free time: 22, time to fill order: 0} 3: None
+{Customers in Line: 0, customers served: 0, free time: 22, time to fill order: 0} 4: None
+{Customers in Line: 0, customers served: 0, free time: 22, time to fill order: 0} 5: None
+{Customers in Line: 0, customers served: 0, free time: 22, time to fill order: 0} 6: None
+{Customers in Line: 0, customers served: 0, free time: 22, time to fill order: 0} 7: None
+{Customers in Line: 0, customers served: 0, free time: 22, time to fill order: 0} 8: None
+{Customers in Line: 0, customers served: 0, free time: 22, time to fill order: 0} 9: None
+
+End of scenario for instance of restaurant at 22out of 100
+----------------------------------------------------------------------
+----------------------------------------------------------------------
+Instance of Restaurant at 23 out of 100
+Cashiers:            10
+
+{Customers in Line: 0, customers served: 6, free time: 9, time to fill order: 0} 0: None
+{Customers in Line: 0, customers served: 2, free time: 17, time to fill order: 2} 1: {Order time: 2, wait time: 0} <- End
+{Customers in Line: 0, customers served: 1, free time: 21, time to fill order: 0} 2: None
+{Customers in Line: 0, customers served: 0, free time: 23, time to fill order: 0} 3: None
+{Customers in Line: 0, customers served: 0, free time: 23, time to fill order: 0} 4: None
+{Customers in Line: 0, customers served: 0, free time: 23, time to fill order: 0} 5: None
+{Customers in Line: 0, customers served: 0, free time: 23, time to fill order: 0} 6: None
+{Customers in Line: 0, customers served: 0, free time: 23, time to fill order: 0} 7: None
+{Customers in Line: 0, customers served: 0, free time: 23, time to fill order: 0} 8: None
+{Customers in Line: 0, customers served: 0, free time: 23, time to fill order: 0} 9: None
+
+End of scenario for instance of restaurant at 23out of 100
+----------------------------------------------------------------------
+----------------------------------------------------------------------
+Instance of Restaurant at 24 out of 100
+Cashiers:            10
+
+{Customers in Line: 0, customers served: 6, free time: 9, time to fill order: 1} 0: {Order time: 1, wait time: 0} <- End
+{Customers in Line: 0, customers served: 2, free time: 17, time to fill order: 1} 1: {Order time: 2, wait time: 1} <- End
+{Customers in Line: 0, customers served: 1, free time: 22, time to fill order: 0} 2: None
+{Customers in Line: 0, customers served: 0, free time: 24, time to fill order: 0} 3: None
+{Customers in Line: 0, customers served: 0, free time: 24, time to fill order: 0} 4: None
+{Customers in Line: 0, customers served: 0, free time: 24, time to fill order: 0} 5: None
+{Customers in Line: 0, customers served: 0, free time: 24, time to fill order: 0} 6: None
+{Customers in Line: 0, customers served: 0, free time: 24, time to fill order: 0} 7: None
+{Customers in Line: 0, customers served: 0, free time: 24, time to fill order: 0} 8: None
+{Customers in Line: 0, customers served: 0, free time: 24, time to fill order: 0} 9: None
+
+End of scenario for instance of restaurant at 24out of 100
+----------------------------------------------------------------------
+----------------------------------------------------------------------
+Instance of Restaurant at 25 out of 100
+Cashiers:            10
+
+{Customers in Line: 0, customers served: 7, free time: 9, time to fill order: 0} 0: None
+{Customers in Line: 0, customers served: 3, free time: 17, time to fill order: 0} 1: None
+{Customers in Line: 0, customers served: 1, free time: 23, time to fill order: 0} 2: None
+{Customers in Line: 0, customers served: 0, free time: 25, time to fill order: 0} 3: None
+{Customers in Line: 0, customers served: 0, free time: 25, time to fill order: 0} 4: None
+{Customers in Line: 0, customers served: 0, free time: 25, time to fill order: 0} 5: None
+{Customers in Line: 0, customers served: 0, free time: 25, time to fill order: 0} 6: None
+{Customers in Line: 0, customers served: 0, free time: 25, time to fill order: 0} 7: None
+{Customers in Line: 0, customers served: 0, free time: 25, time to fill order: 0} 8: None
+{Customers in Line: 0, customers served: 0, free time: 25, time to fill order: 0} 9: None
+
+End of scenario for instance of restaurant at 25out of 100
+----------------------------------------------------------------------
+----------------------------------------------------------------------
+Instance of Restaurant at 26 out of 100
+Cashiers:            10
+
+{Customers in Line: 0, customers served: 7, free time: 10, time to fill order: 0} 0: None
+{Customers in Line: 0, customers served: 3, free time: 18, time to fill order: 0} 1: None
+{Customers in Line: 0, customers served: 1, free time: 24, time to fill order: 0} 2: None
+{Customers in Line: 0, customers served: 0, free time: 26, time to fill order: 0} 3: None
+{Customers in Line: 0, customers served: 0, free time: 26, time to fill order: 0} 4: None
+{Customers in Line: 0, customers served: 0, free time: 26, time to fill order: 0} 5: None
+{Customers in Line: 0, customers served: 0, free time: 26, time to fill order: 0} 6: None
+{Customers in Line: 0, customers served: 0, free time: 26, time to fill order: 0} 7: None
+{Customers in Line: 0, customers served: 0, free time: 26, time to fill order: 0} 8: None
+{Customers in Line: 0, customers served: 0, free time: 26, time to fill order: 0} 9: None
+
+End of scenario for instance of restaurant at 26out of 100
+----------------------------------------------------------------------
+----------------------------------------------------------------------
+Instance of Restaurant at 27 out of 100
+Cashiers:            10
+
+{Customers in Line: 0, customers served: 7, free time: 11, time to fill order: 0} 0: None
+{Customers in Line: 0, customers served: 3, free time: 19, time to fill order: 0} 1: None
+{Customers in Line: 0, customers served: 1, free time: 25, time to fill order: 0} 2: None
+{Customers in Line: 0, customers served: 0, free time: 27, time to fill order: 0} 3: None
+{Customers in Line: 0, customers served: 0, free time: 27, time to fill order: 0} 4: None
+{Customers in Line: 0, customers served: 0, free time: 27, time to fill order: 0} 5: None
+{Customers in Line: 0, customers served: 0, free time: 27, time to fill order: 0} 6: None
+{Customers in Line: 0, customers served: 0, free time: 27, time to fill order: 0} 7: None
+{Customers in Line: 0, customers served: 0, free time: 27, time to fill order: 0} 8: None
+{Customers in Line: 0, customers served: 0, free time: 27, time to fill order: 0} 9: None
+
+End of scenario for instance of restaurant at 27out of 100
+----------------------------------------------------------------------
+----------------------------------------------------------------------
+Instance of Restaurant at 28 out of 100
+Cashiers:            10
+
+{Customers in Line: 0, customers served: 7, free time: 11, time to fill order: 2} 0: {Order time: 2, wait time: 0} <- End
+{Customers in Line: 0, customers served: 3, free time: 20, time to fill order: 0} 1: None
+{Customers in Line: 0, customers served: 1, free time: 26, time to fill order: 0} 2: None
+{Customers in Line: 0, customers served: 0, free time: 28, time to fill order: 0} 3: None
+{Customers in Line: 0, customers served: 0, free time: 28, time to fill order: 0} 4: None
+{Customers in Line: 0, customers served: 0, free time: 28, time to fill order: 0} 5: None
+{Customers in Line: 0, customers served: 0, free time: 28, time to fill order: 0} 6: None
+{Customers in Line: 0, customers served: 0, free time: 28, time to fill order: 0} 7: None
+{Customers in Line: 0, customers served: 0, free time: 28, time to fill order: 0} 8: None
+{Customers in Line: 0, customers served: 0, free time: 28, time to fill order: 0} 9: None
+
+End of scenario for instance of restaurant at 28out of 100
+----------------------------------------------------------------------
+----------------------------------------------------------------------
+Instance of Restaurant at 29 out of 100
+Cashiers:            10
+
+{Customers in Line: 0, customers served: 7, free time: 11, time to fill order: 1} 0: {Order time: 2, wait time: 1} <- End
+{Customers in Line: 0, customers served: 3, free time: 21, time to fill order: 0} 1: None
+{Customers in Line: 0, customers served: 1, free time: 27, time to fill order: 0} 2: None
+{Customers in Line: 0, customers served: 0, free time: 29, time to fill order: 0} 3: None
+{Customers in Line: 0, customers served: 0, free time: 29, time to fill order: 0} 4: None
+{Customers in Line: 0, customers served: 0, free time: 29, time to fill order: 0} 5: None
+{Customers in Line: 0, customers served: 0, free time: 29, time to fill order: 0} 6: None
+{Customers in Line: 0, customers served: 0, free time: 29, time to fill order: 0} 7: None
+{Customers in Line: 0, customers served: 0, free time: 29, time to fill order: 0} 8: None
+{Customers in Line: 0, customers served: 0, free time: 29, time to fill order: 0} 9: None
+
+End of scenario for instance of restaurant at 29out of 100
+----------------------------------------------------------------------
+----------------------------------------------------------------------
+Instance of Restaurant at 30 out of 100
+Cashiers:            10
+
+{Customers in Line: 0, customers served: 8, free time: 11, time to fill order: 0} 0: None
+{Customers in Line: 0, customers served: 3, free time: 21, time to fill order: 1} 1: {Order time: 1, wait time: 0} <- End
+{Customers in Line: 0, customers served: 1, free time: 28, time to fill order: 0} 2: None
+{Customers in Line: 0, customers served: 0, free time: 30, time to fill order: 0} 3: None
+{Customers in Line: 0, customers served: 0, free time: 30, time to fill order: 0} 4: None
+{Customers in Line: 0, customers served: 0, free time: 30, time to fill order: 0} 5: None
+{Customers in Line: 0, customers served: 0, free time: 30, time to fill order: 0} 6: None
+{Customers in Line: 0, customers served: 0, free time: 30, time to fill order: 0} 7: None
+{Customers in Line: 0, customers served: 0, free time: 30, time to fill order: 0} 8: None
+{Customers in Line: 0, customers served: 0, free time: 30, time to fill order: 0} 9: None
+
+End of scenario for instance of restaurant at 30out of 100
+----------------------------------------------------------------------
+----------------------------------------------------------------------
+Instance of Restaurant at 31 out of 100
+Cashiers:            10
+
+{Customers in Line: 0, customers served: 8, free time: 12, time to fill order: 0} 0: None
+{Customers in Line: 0, customers served: 4, free time: 21, time to fill order: 0} 1: None
+{Customers in Line: 0, customers served: 1, free time: 29, time to fill order: 0} 2: None
+{Customers in Line: 0, customers served: 0, free time: 31, time to fill order: 0} 3: None
+{Customers in Line: 0, customers served: 0, free time: 31, time to fill order: 0} 4: None
+{Customers in Line: 0, customers served: 0, free time: 31, time to fill order: 0} 5: None
+{Customers in Line: 0, customers served: 0, free time: 31, time to fill order: 0} 6: None
+{Customers in Line: 0, customers served: 0, free time: 31, time to fill order: 0} 7: None
+{Customers in Line: 0, customers served: 0, free time: 31, time to fill order: 0} 8: None
+{Customers in Line: 0, customers served: 0, free time: 31, time to fill order: 0} 9: None
+
+End of scenario for instance of restaurant at 31out of 100
+----------------------------------------------------------------------
+----------------------------------------------------------------------
+Instance of Restaurant at 32 out of 100
+Cashiers:            10
+
+{Customers in Line: 0, customers served: 8, free time: 12, time to fill order: 2} 0: {Order time: 2, wait time: 0} <- End
+{Customers in Line: 0, customers served: 4, free time: 22, time to fill order: 0} 1: None
+{Customers in Line: 0, customers served: 1, free time: 30, time to fill order: 0} 2: None
+{Customers in Line: 0, customers served: 0, free time: 32, time to fill order: 0} 3: None
+{Customers in Line: 0, customers served: 0, free time: 32, time to fill order: 0} 4: None
+{Customers in Line: 0, customers served: 0, free time: 32, time to fill order: 0} 5: None
+{Customers in Line: 0, customers served: 0, free time: 32, time to fill order: 0} 6: None
+{Customers in Line: 0, customers served: 0, free time: 32, time to fill order: 0} 7: None
+{Customers in Line: 0, customers served: 0, free time: 32, time to fill order: 0} 8: None
+{Customers in Line: 0, customers served: 0, free time: 32, time to fill order: 0} 9: None
+
+End of scenario for instance of restaurant at 32out of 100
+----------------------------------------------------------------------
+----------------------------------------------------------------------
+Instance of Restaurant at 33 out of 100
+Cashiers:            10
+
+{Customers in Line: 0, customers served: 8, free time: 12, time to fill order: 1} 0: {Order time: 2, wait time: 1} <- End
+{Customers in Line: 0, customers served: 4, free time: 23, time to fill order: 0} 1: None
+{Customers in Line: 0, customers served: 1, free time: 31, time to fill order: 0} 2: None
+{Customers in Line: 0, customers served: 0, free time: 33, time to fill order: 0} 3: None
+{Customers in Line: 0, customers served: 0, free time: 33, time to fill order: 0} 4: None
+{Customers in Line: 0, customers served: 0, free time: 33, time to fill order: 0} 5: None
+{Customers in Line: 0, customers served: 0, free time: 33, time to fill order: 0} 6: None
+{Customers in Line: 0, customers served: 0, free time: 33, time to fill order: 0} 7: None
+{Customers in Line: 0, customers served: 0, free time: 33, time to fill order: 0} 8: None
+{Customers in Line: 0, customers served: 0, free time: 33, time to fill order: 0} 9: None
+
+End of scenario for instance of restaurant at 33out of 100
+----------------------------------------------------------------------
+----------------------------------------------------------------------
+Instance of Restaurant at 34 out of 100
+Cashiers:            10
+
+{Customers in Line: 0, customers served: 9, free time: 12, time to fill order: 0} 0: None
+{Customers in Line: 0, customers served: 4, free time: 24, time to fill order: 0} 1: None
+{Customers in Line: 0, customers served: 1, free time: 32, time to fill order: 0} 2: None
+{Customers in Line: 0, customers served: 0, free time: 34, time to fill order: 0} 3: None
+{Customers in Line: 0, customers served: 0, free time: 34, time to fill order: 0} 4: None
+{Customers in Line: 0, customers served: 0, free time: 34, time to fill order: 0} 5: None
+{Customers in Line: 0, customers served: 0, free time: 34, time to fill order: 0} 6: None
+{Customers in Line: 0, customers served: 0, free time: 34, time to fill order: 0} 7: None
+{Customers in Line: 0, customers served: 0, free time: 34, time to fill order: 0} 8: None
+{Customers in Line: 0, customers served: 0, free time: 34, time to fill order: 0} 9: None
+
+End of scenario for instance of restaurant at 34out of 100
+----------------------------------------------------------------------
+----------------------------------------------------------------------
+Instance of Restaurant at 35 out of 100
+Cashiers:            10
+
+{Customers in Line: 0, customers served: 9, free time: 12, time to fill order: 2} 0: {Order time: 2, wait time: 0} <- End
+{Customers in Line: 0, customers served: 4, free time: 25, time to fill order: 0} 1: None
+{Customers in Line: 0, customers served: 1, free time: 33, time to fill order: 0} 2: None
+{Customers in Line: 0, customers served: 0, free time: 35, time to fill order: 0} 3: None
+{Customers in Line: 0, customers served: 0, free time: 35, time to fill order: 0} 4: None
+{Customers in Line: 0, customers served: 0, free time: 35, time to fill order: 0} 5: None
+{Customers in Line: 0, customers served: 0, free time: 35, time to fill order: 0} 6: None
+{Customers in Line: 0, customers served: 0, free time: 35, time to fill order: 0} 7: None
+{Customers in Line: 0, customers served: 0, free time: 35, time to fill order: 0} 8: None
+{Customers in Line: 0, customers served: 0, free time: 35, time to fill order: 0} 9: None
+
+End of scenario for instance of restaurant at 35out of 100
+----------------------------------------------------------------------
+----------------------------------------------------------------------
+Instance of Restaurant at 36 out of 100
+Cashiers:            10
+
+{Customers in Line: 0, customers served: 9, free time: 12, time to fill order: 1} 0: {Order time: 2, wait time: 1} <- End
+{Customers in Line: 0, customers served: 4, free time: 26, time to fill order: 0} 1: None
+{Customers in Line: 0, customers served: 1, free time: 34, time to fill order: 0} 2: None
+{Customers in Line: 0, customers served: 0, free time: 36, time to fill order: 0} 3: None
+{Customers in Line: 0, customers served: 0, free time: 36, time to fill order: 0} 4: None
+{Customers in Line: 0, customers served: 0, free time: 36, time to fill order: 0} 5: None
+{Customers in Line: 0, customers served: 0, free time: 36, time to fill order: 0} 6: None
+{Customers in Line: 0, customers served: 0, free time: 36, time to fill order: 0} 7: None
+{Customers in Line: 0, customers served: 0, free time: 36, time to fill order: 0} 8: None
+{Customers in Line: 0, customers served: 0, free time: 36, time to fill order: 0} 9: None
+
+End of scenario for instance of restaurant at 36out of 100
+----------------------------------------------------------------------
+----------------------------------------------------------------------
+Instance of Restaurant at 37 out of 100
+Cashiers:            10
+
+{Customers in Line: 0, customers served: 10, free time: 12, time to fill order: 0} 0: None
+{Customers in Line: 0, customers served: 4, free time: 27, time to fill order: 0} 1: None
+{Customers in Line: 0, customers served: 1, free time: 35, time to fill order: 0} 2: None
+{Customers in Line: 0, customers served: 0, free time: 37, time to fill order: 0} 3: None
+{Customers in Line: 0, customers served: 0, free time: 37, time to fill order: 0} 4: None
+{Customers in Line: 0, customers served: 0, free time: 37, time to fill order: 0} 5: None
+{Customers in Line: 0, customers served: 0, free time: 37, time to fill order: 0} 6: None
+{Customers in Line: 0, customers served: 0, free time: 37, time to fill order: 0} 7: None
+{Customers in Line: 0, customers served: 0, free time: 37, time to fill order: 0} 8: None
+{Customers in Line: 0, customers served: 0, free time: 37, time to fill order: 0} 9: None
+
+End of scenario for instance of restaurant at 37out of 100
+----------------------------------------------------------------------
+----------------------------------------------------------------------
+Instance of Restaurant at 38 out of 100
+Cashiers:            10
+
+{Customers in Line: 0, customers served: 10, free time: 12, time to fill order: 2} 0: {Order time: 2, wait time: 0} <- End
+{Customers in Line: 0, customers served: 4, free time: 28, time to fill order: 0} 1: None
+{Customers in Line: 0, customers served: 1, free time: 36, time to fill order: 0} 2: None
+{Customers in Line: 0, customers served: 0, free time: 38, time to fill order: 0} 3: None
+{Customers in Line: 0, customers served: 0, free time: 38, time to fill order: 0} 4: None
+{Customers in Line: 0, customers served: 0, free time: 38, time to fill order: 0} 5: None
+{Customers in Line: 0, customers served: 0, free time: 38, time to fill order: 0} 6: None
+{Customers in Line: 0, customers served: 0, free time: 38, time to fill order: 0} 7: None
+{Customers in Line: 0, customers served: 0, free time: 38, time to fill order: 0} 8: None
+{Customers in Line: 0, customers served: 0, free time: 38, time to fill order: 0} 9: None
+
+End of scenario for instance of restaurant at 38out of 100
+----------------------------------------------------------------------
+----------------------------------------------------------------------
+Instance of Restaurant at 39 out of 100
+Cashiers:            10
+
+{Customers in Line: 0, customers served: 10, free time: 12, time to fill order: 1} 0: {Order time: 2, wait time: 1} <- End
+{Customers in Line: 0, customers served: 4, free time: 28, time to fill order: 1} 1: {Order time: 1, wait time: 0} <- End
+{Customers in Line: 0, customers served: 1, free time: 37, time to fill order: 0} 2: None
+{Customers in Line: 0, customers served: 0, free time: 39, time to fill order: 0} 3: None
+{Customers in Line: 0, customers served: 0, free time: 39, time to fill order: 0} 4: None
+{Customers in Line: 0, customers served: 0, free time: 39, time to fill order: 0} 5: None
+{Customers in Line: 0, customers served: 0, free time: 39, time to fill order: 0} 6: None
+{Customers in Line: 0, customers served: 0, free time: 39, time to fill order: 0} 7: None
+{Customers in Line: 0, customers served: 0, free time: 39, time to fill order: 0} 8: None
+{Customers in Line: 0, customers served: 0, free time: 39, time to fill order: 0} 9: None
+
+End of scenario for instance of restaurant at 39out of 100
+----------------------------------------------------------------------
+----------------------------------------------------------------------
+Instance of Restaurant at 40 out of 100
+Cashiers:            10
+
+{Customers in Line: 0, customers served: 11, free time: 12, time to fill order: 0} 0: None
+{Customers in Line: 0, customers served: 5, free time: 28, time to fill order: 0} 1: None
+{Customers in Line: 0, customers served: 1, free time: 37, time to fill order: 1} 2: {Order time: 1, wait time: 0} <- End
+{Customers in Line: 0, customers served: 0, free time: 40, time to fill order: 0} 3: None
+{Customers in Line: 0, customers served: 0, free time: 40, time to fill order: 0} 4: None
+{Customers in Line: 0, customers served: 0, free time: 40, time to fill order: 0} 5: None
+{Customers in Line: 0, customers served: 0, free time: 40, time to fill order: 0} 6: None
+{Customers in Line: 0, customers served: 0, free time: 40, time to fill order: 0} 7: None
+{Customers in Line: 0, customers served: 0, free time: 40, time to fill order: 0} 8: None
+{Customers in Line: 0, customers served: 0, free time: 40, time to fill order: 0} 9: None
+
+End of scenario for instance of restaurant at 40out of 100
+----------------------------------------------------------------------
+----------------------------------------------------------------------
+Instance of Restaurant at 41 out of 100
+Cashiers:            10
+
+{Customers in Line: 0, customers served: 11, free time: 13, time to fill order: 0} 0: None
+{Customers in Line: 0, customers served: 5, free time: 29, time to fill order: 0} 1: None
+{Customers in Line: 0, customers served: 2, free time: 37, time to fill order: 0} 2: None
+{Customers in Line: 0, customers served: 0, free time: 41, time to fill order: 0} 3: None
+{Customers in Line: 0, customers served: 0, free time: 41, time to fill order: 0} 4: None
+{Customers in Line: 0, customers served: 0, free time: 41, time to fill order: 0} 5: None
+{Customers in Line: 0, customers served: 0, free time: 41, time to fill order: 0} 6: None
+{Customers in Line: 0, customers served: 0, free time: 41, time to fill order: 0} 7: None
+{Customers in Line: 0, customers served: 0, free time: 41, time to fill order: 0} 8: None
+{Customers in Line: 0, customers served: 0, free time: 41, time to fill order: 0} 9: None
+
+End of scenario for instance of restaurant at 41out of 100
+----------------------------------------------------------------------
+----------------------------------------------------------------------
+Instance of Restaurant at 42 out of 100
+Cashiers:            10
+
+{Customers in Line: 0, customers served: 11, free time: 14, time to fill order: 0} 0: None
+{Customers in Line: 0, customers served: 5, free time: 30, time to fill order: 0} 1: None
+{Customers in Line: 0, customers served: 2, free time: 38, time to fill order: 0} 2: None
+{Customers in Line: 0, customers served: 0, free time: 42, time to fill order: 0} 3: None
+{Customers in Line: 0, customers served: 0, free time: 42, time to fill order: 0} 4: None
+{Customers in Line: 0, customers served: 0, free time: 42, time to fill order: 0} 5: None
+{Customers in Line: 0, customers served: 0, free time: 42, time to fill order: 0} 6: None
+{Customers in Line: 0, customers served: 0, free time: 42, time to fill order: 0} 7: None
+{Customers in Line: 0, customers served: 0, free time: 42, time to fill order: 0} 8: None
+{Customers in Line: 0, customers served: 0, free time: 42, time to fill order: 0} 9: None
+
+End of scenario for instance of restaurant at 42out of 100
+----------------------------------------------------------------------
+----------------------------------------------------------------------
+Instance of Restaurant at 43 out of 100
+Cashiers:            10
+
+{Customers in Line: 0, customers served: 11, free time: 15, time to fill order: 0} 0: None
+{Customers in Line: 0, customers served: 5, free time: 31, time to fill order: 0} 1: None
+{Customers in Line: 0, customers served: 2, free time: 39, time to fill order: 0} 2: None
+{Customers in Line: 0, customers served: 0, free time: 43, time to fill order: 0} 3: None
+{Customers in Line: 0, customers served: 0, free time: 43, time to fill order: 0} 4: None
+{Customers in Line: 0, customers served: 0, free time: 43, time to fill order: 0} 5: None
+{Customers in Line: 0, customers served: 0, free time: 43, time to fill order: 0} 6: None
+{Customers in Line: 0, customers served: 0, free time: 43, time to fill order: 0} 7: None
+{Customers in Line: 0, customers served: 0, free time: 43, time to fill order: 0} 8: None
+{Customers in Line: 0, customers served: 0, free time: 43, time to fill order: 0} 9: None
+
+End of scenario for instance of restaurant at 43out of 100
+----------------------------------------------------------------------
+----------------------------------------------------------------------
+Instance of Restaurant at 44 out of 100
+Cashiers:            10
+
+{Customers in Line: 0, customers served: 11, free time: 15, time to fill order: 1} 0: {Order time: 1, wait time: 0} <- End
+{Customers in Line: 0, customers served: 5, free time: 32, time to fill order: 0} 1: None
+{Customers in Line: 0, customers served: 2, free time: 40, time to fill order: 0} 2: None
+{Customers in Line: 0, customers served: 0, free time: 44, time to fill order: 0} 3: None
+{Customers in Line: 0, customers served: 0, free time: 44, time to fill order: 0} 4: None
+{Customers in Line: 0, customers served: 0, free time: 44, time to fill order: 0} 5: None
+{Customers in Line: 0, customers served: 0, free time: 44, time to fill order: 0} 6: None
+{Customers in Line: 0, customers served: 0, free time: 44, time to fill order: 0} 7: None
+{Customers in Line: 0, customers served: 0, free time: 44, time to fill order: 0} 8: None
+{Customers in Line: 0, customers served: 0, free time: 44, time to fill order: 0} 9: None
+
+End of scenario for instance of restaurant at 44out of 100
+----------------------------------------------------------------------
+----------------------------------------------------------------------
+Instance of Restaurant at 45 out of 100
+Cashiers:            10
+
+{Customers in Line: 0, customers served: 12, free time: 15, time to fill order: 0} 0: None
+{Customers in Line: 0, customers served: 5, free time: 32, time to fill order: 2} 1: {Order time: 2, wait time: 0} <- End
+{Customers in Line: 0, customers served: 2, free time: 41, time to fill order: 0} 2: None
+{Customers in Line: 0, customers served: 0, free time: 45, time to fill order: 0} 3: None
+{Customers in Line: 0, customers served: 0, free time: 45, time to fill order: 0} 4: None
+{Customers in Line: 0, customers served: 0, free time: 45, time to fill order: 0} 5: None
+{Customers in Line: 0, customers served: 0, free time: 45, time to fill order: 0} 6: None
+{Customers in Line: 0, customers served: 0, free time: 45, time to fill order: 0} 7: None
+{Customers in Line: 0, customers served: 0, free time: 45, time to fill order: 0} 8: None
+{Customers in Line: 0, customers served: 0, free time: 45, time to fill order: 0} 9: None
+
+End of scenario for instance of restaurant at 45out of 100
+----------------------------------------------------------------------
+----------------------------------------------------------------------
+Instance of Restaurant at 46 out of 100
+Cashiers:            10
+
+{Customers in Line: 0, customers served: 12, free time: 16, time to fill order: 0} 0: None
+{Customers in Line: 0, customers served: 5, free time: 32, time to fill order: 1} 1: {Order time: 2, wait time: 1} <- End
+{Customers in Line: 0, customers served: 2, free time: 42, time to fill order: 0} 2: None
+{Customers in Line: 0, customers served: 0, free time: 46, time to fill order: 0} 3: None
+{Customers in Line: 0, customers served: 0, free time: 46, time to fill order: 0} 4: None
+{Customers in Line: 0, customers served: 0, free time: 46, time to fill order: 0} 5: None
+{Customers in Line: 0, customers served: 0, free time: 46, time to fill order: 0} 6: None
+{Customers in Line: 0, customers served: 0, free time: 46, time to fill order: 0} 7: None
+{Customers in Line: 0, customers served: 0, free time: 46, time to fill order: 0} 8: None
+{Customers in Line: 0, customers served: 0, free time: 46, time to fill order: 0} 9: None
+
+End of scenario for instance of restaurant at 46out of 100
+----------------------------------------------------------------------
+----------------------------------------------------------------------
+Instance of Restaurant at 47 out of 100
+Cashiers:            10
+
+{Customers in Line: 0, customers served: 12, free time: 17, time to fill order: 0} 0: None
+{Customers in Line: 0, customers served: 6, free time: 32, time to fill order: 0} 1: None
+{Customers in Line: 0, customers served: 2, free time: 43, time to fill order: 0} 2: None
+{Customers in Line: 0, customers served: 0, free time: 47, time to fill order: 0} 3: None
+{Customers in Line: 0, customers served: 0, free time: 47, time to fill order: 0} 4: None
+{Customers in Line: 0, customers served: 0, free time: 47, time to fill order: 0} 5: None
+{Customers in Line: 0, customers served: 0, free time: 47, time to fill order: 0} 6: None
+{Customers in Line: 0, customers served: 0, free time: 47, time to fill order: 0} 7: None
+{Customers in Line: 0, customers served: 0, free time: 47, time to fill order: 0} 8: None
+{Customers in Line: 0, customers served: 0, free time: 47, time to fill order: 0} 9: None
+
+End of scenario for instance of restaurant at 47out of 100
+----------------------------------------------------------------------
+----------------------------------------------------------------------
+Instance of Restaurant at 48 out of 100
+Cashiers:            10
+
+{Customers in Line: 0, customers served: 12, free time: 17, time to fill order: 1} 0: {Order time: 1, wait time: 0} <- End
+{Customers in Line: 0, customers served: 6, free time: 33, time to fill order: 0} 1: None
+{Customers in Line: 0, customers served: 2, free time: 44, time to fill order: 0} 2: None
+{Customers in Line: 0, customers served: 0, free time: 48, time to fill order: 0} 3: None
+{Customers in Line: 0, customers served: 0, free time: 48, time to fill order: 0} 4: None
+{Customers in Line: 0, customers served: 0, free time: 48, time to fill order: 0} 5: None
+{Customers in Line: 0, customers served: 0, free time: 48, time to fill order: 0} 6: None
+{Customers in Line: 0, customers served: 0, free time: 48, time to fill order: 0} 7: None
+{Customers in Line: 0, customers served: 0, free time: 48, time to fill order: 0} 8: None
+{Customers in Line: 0, customers served: 0, free time: 48, time to fill order: 0} 9: None
+
+End of scenario for instance of restaurant at 48out of 100
+----------------------------------------------------------------------
+----------------------------------------------------------------------
+Instance of Restaurant at 49 out of 100
+Cashiers:            10
+
+{Customers in Line: 0, customers served: 13, free time: 17, time to fill order: 0} 0: None
+{Customers in Line: 0, customers served: 6, free time: 33, time to fill order: 1} 1: {Order time: 1, wait time: 0} <- End
+{Customers in Line: 0, customers served: 2, free time: 45, time to fill order: 0} 2: None
+{Customers in Line: 0, customers served: 0, free time: 49, time to fill order: 0} 3: None
+{Customers in Line: 0, customers served: 0, free time: 49, time to fill order: 0} 4: None
+{Customers in Line: 0, customers served: 0, free time: 49, time to fill order: 0} 5: None
+{Customers in Line: 0, customers served: 0, free time: 49, time to fill order: 0} 6: None
+{Customers in Line: 0, customers served: 0, free time: 49, time to fill order: 0} 7: None
+{Customers in Line: 0, customers served: 0, free time: 49, time to fill order: 0} 8: None
+{Customers in Line: 0, customers served: 0, free time: 49, time to fill order: 0} 9: None
+
+End of scenario for instance of restaurant at 49out of 100
+----------------------------------------------------------------------
+----------------------------------------------------------------------
+Instance of Restaurant at 50 out of 100
+Cashiers:            10
+
+{Customers in Line: 0, customers served: 13, free time: 18, time to fill order: 0} 0: None
+{Customers in Line: 0, customers served: 7, free time: 33, time to fill order: 0} 1: None
+{Customers in Line: 0, customers served: 2, free time: 46, time to fill order: 0} 2: None
+{Customers in Line: 0, customers served: 0, free time: 50, time to fill order: 0} 3: None
+{Customers in Line: 0, customers served: 0, free time: 50, time to fill order: 0} 4: None
+{Customers in Line: 0, customers served: 0, free time: 50, time to fill order: 0} 5: None
+{Customers in Line: 0, customers served: 0, free time: 50, time to fill order: 0} 6: None
+{Customers in Line: 0, customers served: 0, free time: 50, time to fill order: 0} 7: None
+{Customers in Line: 0, customers served: 0, free time: 50, time to fill order: 0} 8: None
+{Customers in Line: 0, customers served: 0, free time: 50, time to fill order: 0} 9: None
+
+End of scenario for instance of restaurant at 50out of 100
+----------------------------------------------------------------------
+----------------------------------------------------------------------
+Instance of Restaurant at 51 out of 100
+Cashiers:            10
+
+{Customers in Line: 0, customers served: 13, free time: 19, time to fill order: 0} 0: None
+{Customers in Line: 0, customers served: 7, free time: 34, time to fill order: 0} 1: None
+{Customers in Line: 0, customers served: 2, free time: 47, time to fill order: 0} 2: None
+{Customers in Line: 0, customers served: 0, free time: 51, time to fill order: 0} 3: None
+{Customers in Line: 0, customers served: 0, free time: 51, time to fill order: 0} 4: None
+{Customers in Line: 0, customers served: 0, free time: 51, time to fill order: 0} 5: None
+{Customers in Line: 0, customers served: 0, free time: 51, time to fill order: 0} 6: None
+{Customers in Line: 0, customers served: 0, free time: 51, time to fill order: 0} 7: None
+{Customers in Line: 0, customers served: 0, free time: 51, time to fill order: 0} 8: None
+{Customers in Line: 0, customers served: 0, free time: 51, time to fill order: 0} 9: None
+
+End of scenario for instance of restaurant at 51out of 100
+----------------------------------------------------------------------
+----------------------------------------------------------------------
+Instance of Restaurant at 52 out of 100
+Cashiers:            10
+
+{Customers in Line: 0, customers served: 13, free time: 19, time to fill order: 2} 0: {Order time: 2, wait time: 0} <- End
+{Customers in Line: 0, customers served: 7, free time: 35, time to fill order: 0} 1: None
+{Customers in Line: 0, customers served: 2, free time: 48, time to fill order: 0} 2: None
+{Customers in Line: 0, customers served: 0, free time: 52, time to fill order: 0} 3: None
+{Customers in Line: 0, customers served: 0, free time: 52, time to fill order: 0} 4: None
+{Customers in Line: 0, customers served: 0, free time: 52, time to fill order: 0} 5: None
+{Customers in Line: 0, customers served: 0, free time: 52, time to fill order: 0} 6: None
+{Customers in Line: 0, customers served: 0, free time: 52, time to fill order: 0} 7: None
+{Customers in Line: 0, customers served: 0, free time: 52, time to fill order: 0} 8: None
+{Customers in Line: 0, customers served: 0, free time: 52, time to fill order: 0} 9: None
+
+End of scenario for instance of restaurant at 52out of 100
+----------------------------------------------------------------------
+----------------------------------------------------------------------
+Instance of Restaurant at 53 out of 100
+Cashiers:            10
+
+{Customers in Line: 0, customers served: 13, free time: 19, time to fill order: 1} 0: {Order time: 2, wait time: 1} <- End
+{Customers in Line: 0, customers served: 7, free time: 35, time to fill order: 1} 1: {Order time: 1, wait time: 0} <- End
+{Customers in Line: 0, customers served: 2, free time: 49, time to fill order: 0} 2: None
+{Customers in Line: 0, customers served: 0, free time: 53, time to fill order: 0} 3: None
+{Customers in Line: 0, customers served: 0, free time: 53, time to fill order: 0} 4: None
+{Customers in Line: 0, customers served: 0, free time: 53, time to fill order: 0} 5: None
+{Customers in Line: 0, customers served: 0, free time: 53, time to fill order: 0} 6: None
+{Customers in Line: 0, customers served: 0, free time: 53, time to fill order: 0} 7: None
+{Customers in Line: 0, customers served: 0, free time: 53, time to fill order: 0} 8: None
+{Customers in Line: 0, customers served: 0, free time: 53, time to fill order: 0} 9: None
+
+End of scenario for instance of restaurant at 53out of 100
+----------------------------------------------------------------------
+----------------------------------------------------------------------
+Instance of Restaurant at 54 out of 100
+Cashiers:            10
+
+{Customers in Line: 0, customers served: 14, free time: 19, time to fill order: 0} 0: None
+{Customers in Line: 0, customers served: 8, free time: 35, time to fill order: 0} 1: None
+{Customers in Line: 0, customers served: 2, free time: 50, time to fill order: 0} 2: None
+{Customers in Line: 0, customers served: 0, free time: 54, time to fill order: 0} 3: None
+{Customers in Line: 0, customers served: 0, free time: 54, time to fill order: 0} 4: None
+{Customers in Line: 0, customers served: 0, free time: 54, time to fill order: 0} 5: None
+{Customers in Line: 0, customers served: 0, free time: 54, time to fill order: 0} 6: None
+{Customers in Line: 0, customers served: 0, free time: 54, time to fill order: 0} 7: None
+{Customers in Line: 0, customers served: 0, free time: 54, time to fill order: 0} 8: None
+{Customers in Line: 0, customers served: 0, free time: 54, time to fill order: 0} 9: None
+
+End of scenario for instance of restaurant at 54out of 100
+----------------------------------------------------------------------
+----------------------------------------------------------------------
+Instance of Restaurant at 55 out of 100
+Cashiers:            10
+
+{Customers in Line: 0, customers served: 14, free time: 19, time to fill order: 1} 0: {Order time: 1, wait time: 0} <- End
+{Customers in Line: 0, customers served: 8, free time: 36, time to fill order: 0} 1: None
+{Customers in Line: 0, customers served: 2, free time: 51, time to fill order: 0} 2: None
+{Customers in Line: 0, customers served: 0, free time: 55, time to fill order: 0} 3: None
+{Customers in Line: 0, customers served: 0, free time: 55, time to fill order: 0} 4: None
+{Customers in Line: 0, customers served: 0, free time: 55, time to fill order: 0} 5: None
+{Customers in Line: 0, customers served: 0, free time: 55, time to fill order: 0} 6: None
+{Customers in Line: 0, customers served: 0, free time: 55, time to fill order: 0} 7: None
+{Customers in Line: 0, customers served: 0, free time: 55, time to fill order: 0} 8: None
+{Customers in Line: 0, customers served: 0, free time: 55, time to fill order: 0} 9: None
+
+End of scenario for instance of restaurant at 55out of 100
+----------------------------------------------------------------------
+----------------------------------------------------------------------
+Instance of Restaurant at 56 out of 100
+Cashiers:            10
+
+{Customers in Line: 0, customers served: 15, free time: 19, time to fill order: 0} 0: None
+{Customers in Line: 0, customers served: 8, free time: 37, time to fill order: 0} 1: None
+{Customers in Line: 0, customers served: 2, free time: 52, time to fill order: 0} 2: None
+{Customers in Line: 0, customers served: 0, free time: 56, time to fill order: 0} 3: None
+{Customers in Line: 0, customers served: 0, free time: 56, time to fill order: 0} 4: None
+{Customers in Line: 0, customers served: 0, free time: 56, time to fill order: 0} 5: None
+{Customers in Line: 0, customers served: 0, free time: 56, time to fill order: 0} 6: None
+{Customers in Line: 0, customers served: 0, free time: 56, time to fill order: 0} 7: None
+{Customers in Line: 0, customers served: 0, free time: 56, time to fill order: 0} 8: None
+{Customers in Line: 0, customers served: 0, free time: 56, time to fill order: 0} 9: None
+
+End of scenario for instance of restaurant at 56out of 100
+----------------------------------------------------------------------
+----------------------------------------------------------------------
+Instance of Restaurant at 57 out of 100
+Cashiers:            10
+
+{Customers in Line: 0, customers served: 15, free time: 20, time to fill order: 0} 0: None
+{Customers in Line: 0, customers served: 8, free time: 38, time to fill order: 0} 1: None
+{Customers in Line: 0, customers served: 2, free time: 53, time to fill order: 0} 2: None
+{Customers in Line: 0, customers served: 0, free time: 57, time to fill order: 0} 3: None
+{Customers in Line: 0, customers served: 0, free time: 57, time to fill order: 0} 4: None
+{Customers in Line: 0, customers served: 0, free time: 57, time to fill order: 0} 5: None
+{Customers in Line: 0, customers served: 0, free time: 57, time to fill order: 0} 6: None
+{Customers in Line: 0, customers served: 0, free time: 57, time to fill order: 0} 7: None
+{Customers in Line: 0, customers served: 0, free time: 57, time to fill order: 0} 8: None
+{Customers in Line: 0, customers served: 0, free time: 57, time to fill order: 0} 9: None
+
+End of scenario for instance of restaurant at 57out of 100
+----------------------------------------------------------------------
+----------------------------------------------------------------------
+Instance of Restaurant at 58 out of 100
+Cashiers:            10
+
+{Customers in Line: 0, customers served: 15, free time: 21, time to fill order: 0} 0: None
+{Customers in Line: 0, customers served: 8, free time: 39, time to fill order: 0} 1: None
+{Customers in Line: 0, customers served: 2, free time: 54, time to fill order: 0} 2: None
+{Customers in Line: 0, customers served: 0, free time: 58, time to fill order: 0} 3: None
+{Customers in Line: 0, customers served: 0, free time: 58, time to fill order: 0} 4: None
+{Customers in Line: 0, customers served: 0, free time: 58, time to fill order: 0} 5: None
+{Customers in Line: 0, customers served: 0, free time: 58, time to fill order: 0} 6: None
+{Customers in Line: 0, customers served: 0, free time: 58, time to fill order: 0} 7: None
+{Customers in Line: 0, customers served: 0, free time: 58, time to fill order: 0} 8: None
+{Customers in Line: 0, customers served: 0, free time: 58, time to fill order: 0} 9: None
+
+End of scenario for instance of restaurant at 58out of 100
+----------------------------------------------------------------------
+----------------------------------------------------------------------
+Instance of Restaurant at 59 out of 100
+Cashiers:            10
+
+{Customers in Line: 0, customers served: 15, free time: 21, time to fill order: 2} 0: {Order time: 2, wait time: 0} <- End
+{Customers in Line: 0, customers served: 8, free time: 40, time to fill order: 0} 1: None
+{Customers in Line: 0, customers served: 2, free time: 55, time to fill order: 0} 2: None
+{Customers in Line: 0, customers served: 0, free time: 59, time to fill order: 0} 3: None
+{Customers in Line: 0, customers served: 0, free time: 59, time to fill order: 0} 4: None
+{Customers in Line: 0, customers served: 0, free time: 59, time to fill order: 0} 5: None
+{Customers in Line: 0, customers served: 0, free time: 59, time to fill order: 0} 6: None
+{Customers in Line: 0, customers served: 0, free time: 59, time to fill order: 0} 7: None
+{Customers in Line: 0, customers served: 0, free time: 59, time to fill order: 0} 8: None
+{Customers in Line: 0, customers served: 0, free time: 59, time to fill order: 0} 9: None
+
+End of scenario for instance of restaurant at 59out of 100
+----------------------------------------------------------------------
+----------------------------------------------------------------------
+Instance of Restaurant at 60 out of 100
+Cashiers:            10
+
+{Customers in Line: 0, customers served: 15, free time: 21, time to fill order: 1} 0: {Order time: 2, wait time: 1} <- End
+{Customers in Line: 0, customers served: 8, free time: 40, time to fill order: 1} 1: {Order time: 1, wait time: 0} <- End
+{Customers in Line: 0, customers served: 2, free time: 56, time to fill order: 0} 2: None
+{Customers in Line: 0, customers served: 0, free time: 60, time to fill order: 0} 3: None
+{Customers in Line: 0, customers served: 0, free time: 60, time to fill order: 0} 4: None
+{Customers in Line: 0, customers served: 0, free time: 60, time to fill order: 0} 5: None
+{Customers in Line: 0, customers served: 0, free time: 60, time to fill order: 0} 6: None
+{Customers in Line: 0, customers served: 0, free time: 60, time to fill order: 0} 7: None
+{Customers in Line: 0, customers served: 0, free time: 60, time to fill order: 0} 8: None
+{Customers in Line: 0, customers served: 0, free time: 60, time to fill order: 0} 9: None
+
+End of scenario for instance of restaurant at 60out of 100
+----------------------------------------------------------------------
+----------------------------------------------------------------------
+Instance of Restaurant at 61 out of 100
+Cashiers:            10
+
+{Customers in Line: 0, customers served: 16, free time: 21, time to fill order: 0} 0: None
+{Customers in Line: 0, customers served: 9, free time: 40, time to fill order: 0} 1: None
+{Customers in Line: 0, customers served: 2, free time: 57, time to fill order: 0} 2: None
+{Customers in Line: 0, customers served: 0, free time: 61, time to fill order: 0} 3: None
+{Customers in Line: 0, customers served: 0, free time: 61, time to fill order: 0} 4: None
+{Customers in Line: 0, customers served: 0, free time: 61, time to fill order: 0} 5: None
+{Customers in Line: 0, customers served: 0, free time: 61, time to fill order: 0} 6: None
+{Customers in Line: 0, customers served: 0, free time: 61, time to fill order: 0} 7: None
+{Customers in Line: 0, customers served: 0, free time: 61, time to fill order: 0} 8: None
+{Customers in Line: 0, customers served: 0, free time: 61, time to fill order: 0} 9: None
+
+End of scenario for instance of restaurant at 61out of 100
+----------------------------------------------------------------------
+----------------------------------------------------------------------
+Instance of Restaurant at 62 out of 100
+Cashiers:            10
+
+{Customers in Line: 0, customers served: 16, free time: 22, time to fill order: 0} 0: None
+{Customers in Line: 0, customers served: 9, free time: 41, time to fill order: 0} 1: None
+{Customers in Line: 0, customers served: 2, free time: 58, time to fill order: 0} 2: None
+{Customers in Line: 0, customers served: 0, free time: 62, time to fill order: 0} 3: None
+{Customers in Line: 0, customers served: 0, free time: 62, time to fill order: 0} 4: None
+{Customers in Line: 0, customers served: 0, free time: 62, time to fill order: 0} 5: None
+{Customers in Line: 0, customers served: 0, free time: 62, time to fill order: 0} 6: None
+{Customers in Line: 0, customers served: 0, free time: 62, time to fill order: 0} 7: None
+{Customers in Line: 0, customers served: 0, free time: 62, time to fill order: 0} 8: None
+{Customers in Line: 0, customers served: 0, free time: 62, time to fill order: 0} 9: None
+
+End of scenario for instance of restaurant at 62out of 100
+----------------------------------------------------------------------
+----------------------------------------------------------------------
+Instance of Restaurant at 63 out of 100
+Cashiers:            10
+
+{Customers in Line: 0, customers served: 16, free time: 23, time to fill order: 0} 0: None
+{Customers in Line: 0, customers served: 9, free time: 42, time to fill order: 0} 1: None
+{Customers in Line: 0, customers served: 2, free time: 59, time to fill order: 0} 2: None
+{Customers in Line: 0, customers served: 0, free time: 63, time to fill order: 0} 3: None
+{Customers in Line: 0, customers served: 0, free time: 63, time to fill order: 0} 4: None
+{Customers in Line: 0, customers served: 0, free time: 63, time to fill order: 0} 5: None
+{Customers in Line: 0, customers served: 0, free time: 63, time to fill order: 0} 6: None
+{Customers in Line: 0, customers served: 0, free time: 63, time to fill order: 0} 7: None
+{Customers in Line: 0, customers served: 0, free time: 63, time to fill order: 0} 8: None
+{Customers in Line: 0, customers served: 0, free time: 63, time to fill order: 0} 9: None
+
+End of scenario for instance of restaurant at 63out of 100
+----------------------------------------------------------------------
+----------------------------------------------------------------------
+Instance of Restaurant at 64 out of 100
+Cashiers:            10
+
+{Customers in Line: 0, customers served: 16, free time: 23, time to fill order: 2} 0: {Order time: 2, wait time: 0} <- End
+{Customers in Line: 0, customers served: 9, free time: 43, time to fill order: 0} 1: None
+{Customers in Line: 0, customers served: 2, free time: 60, time to fill order: 0} 2: None
+{Customers in Line: 0, customers served: 0, free time: 64, time to fill order: 0} 3: None
+{Customers in Line: 0, customers served: 0, free time: 64, time to fill order: 0} 4: None
+{Customers in Line: 0, customers served: 0, free time: 64, time to fill order: 0} 5: None
+{Customers in Line: 0, customers served: 0, free time: 64, time to fill order: 0} 6: None
+{Customers in Line: 0, customers served: 0, free time: 64, time to fill order: 0} 7: None
+{Customers in Line: 0, customers served: 0, free time: 64, time to fill order: 0} 8: None
+{Customers in Line: 0, customers served: 0, free time: 64, time to fill order: 0} 9: None
+
+End of scenario for instance of restaurant at 64out of 100
+----------------------------------------------------------------------
+----------------------------------------------------------------------
+Instance of Restaurant at 65 out of 100
+Cashiers:            10
+
+{Customers in Line: 0, customers served: 16, free time: 23, time to fill order: 1} 0: {Order time: 2, wait time: 1} <- End
+{Customers in Line: 0, customers served: 9, free time: 44, time to fill order: 0} 1: None
+{Customers in Line: 0, customers served: 2, free time: 61, time to fill order: 0} 2: None
+{Customers in Line: 0, customers served: 0, free time: 65, time to fill order: 0} 3: None
+{Customers in Line: 0, customers served: 0, free time: 65, time to fill order: 0} 4: None
+{Customers in Line: 0, customers served: 0, free time: 65, time to fill order: 0} 5: None
+{Customers in Line: 0, customers served: 0, free time: 65, time to fill order: 0} 6: None
+{Customers in Line: 0, customers served: 0, free time: 65, time to fill order: 0} 7: None
+{Customers in Line: 0, customers served: 0, free time: 65, time to fill order: 0} 8: None
+{Customers in Line: 0, customers served: 0, free time: 65, time to fill order: 0} 9: None
+
+End of scenario for instance of restaurant at 65out of 100
+----------------------------------------------------------------------
+----------------------------------------------------------------------
+Instance of Restaurant at 66 out of 100
+Cashiers:            10
+
+{Customers in Line: 0, customers served: 17, free time: 23, time to fill order: 0} 0: None
+{Customers in Line: 0, customers served: 9, free time: 45, time to fill order: 0} 1: None
+{Customers in Line: 0, customers served: 2, free time: 62, time to fill order: 0} 2: None
+{Customers in Line: 0, customers served: 0, free time: 66, time to fill order: 0} 3: None
+{Customers in Line: 0, customers served: 0, free time: 66, time to fill order: 0} 4: None
+{Customers in Line: 0, customers served: 0, free time: 66, time to fill order: 0} 5: None
+{Customers in Line: 0, customers served: 0, free time: 66, time to fill order: 0} 6: None
+{Customers in Line: 0, customers served: 0, free time: 66, time to fill order: 0} 7: None
+{Customers in Line: 0, customers served: 0, free time: 66, time to fill order: 0} 8: None
+{Customers in Line: 0, customers served: 0, free time: 66, time to fill order: 0} 9: None
+
+End of scenario for instance of restaurant at 66out of 100
+----------------------------------------------------------------------
+----------------------------------------------------------------------
+Instance of Restaurant at 67 out of 100
+Cashiers:            10
+
+{Customers in Line: 0, customers served: 17, free time: 23, time to fill order: 2} 0: {Order time: 2, wait time: 0} <- End
+{Customers in Line: 0, customers served: 9, free time: 46, time to fill order: 0} 1: None
+{Customers in Line: 0, customers served: 2, free time: 63, time to fill order: 0} 2: None
+{Customers in Line: 0, customers served: 0, free time: 67, time to fill order: 0} 3: None
+{Customers in Line: 0, customers served: 0, free time: 67, time to fill order: 0} 4: None
+{Customers in Line: 0, customers served: 0, free time: 67, time to fill order: 0} 5: None
+{Customers in Line: 0, customers served: 0, free time: 67, time to fill order: 0} 6: None
+{Customers in Line: 0, customers served: 0, free time: 67, time to fill order: 0} 7: None
+{Customers in Line: 0, customers served: 0, free time: 67, time to fill order: 0} 8: None
+{Customers in Line: 0, customers served: 0, free time: 67, time to fill order: 0} 9: None
+
+End of scenario for instance of restaurant at 67out of 100
+----------------------------------------------------------------------
+----------------------------------------------------------------------
+Instance of Restaurant at 68 out of 100
+Cashiers:            10
+
+{Customers in Line: 0, customers served: 17, free time: 23, time to fill order: 1} 0: {Order time: 2, wait time: 1} <- End
+{Customers in Line: 0, customers served: 9, free time: 46, time to fill order: 1} 1: {Order time: 1, wait time: 0} <- End
+{Customers in Line: 0, customers served: 2, free time: 64, time to fill order: 0} 2: None
+{Customers in Line: 0, customers served: 0, free time: 68, time to fill order: 0} 3: None
+{Customers in Line: 0, customers served: 0, free time: 68, time to fill order: 0} 4: None
+{Customers in Line: 0, customers served: 0, free time: 68, time to fill order: 0} 5: None
+{Customers in Line: 0, customers served: 0, free time: 68, time to fill order: 0} 6: None
+{Customers in Line: 0, customers served: 0, free time: 68, time to fill order: 0} 7: None
+{Customers in Line: 0, customers served: 0, free time: 68, time to fill order: 0} 8: None
+{Customers in Line: 0, customers served: 0, free time: 68, time to fill order: 0} 9: None
+
+End of scenario for instance of restaurant at 68out of 100
+----------------------------------------------------------------------
+----------------------------------------------------------------------
+Instance of Restaurant at 69 out of 100
+Cashiers:            10
+
+{Customers in Line: 0, customers served: 18, free time: 23, time to fill order: 0} 0: None
+{Customers in Line: 0, customers served: 10, free time: 46, time to fill order: 0} 1: None
+{Customers in Line: 0, customers served: 2, free time: 64, time to fill order: 2} 2: {Order time: 2, wait time: 0} <- End
+{Customers in Line: 0, customers served: 0, free time: 69, time to fill order: 0} 3: None
+{Customers in Line: 0, customers served: 0, free time: 69, time to fill order: 0} 4: None
+{Customers in Line: 0, customers served: 0, free time: 69, time to fill order: 0} 5: None
+{Customers in Line: 0, customers served: 0, free time: 69, time to fill order: 0} 6: None
+{Customers in Line: 0, customers served: 0, free time: 69, time to fill order: 0} 7: None
+{Customers in Line: 0, customers served: 0, free time: 69, time to fill order: 0} 8: None
+{Customers in Line: 0, customers served: 0, free time: 69, time to fill order: 0} 9: None
+
+End of scenario for instance of restaurant at 69out of 100
+----------------------------------------------------------------------
+----------------------------------------------------------------------
+Instance of Restaurant at 70 out of 100
+Cashiers:            10
+
+{Customers in Line: 0, customers served: 18, free time: 24, time to fill order: 0} 0: None
+{Customers in Line: 0, customers served: 10, free time: 47, time to fill order: 0} 1: None
+{Customers in Line: 0, customers served: 2, free time: 64, time to fill order: 1} 2: {Order time: 2, wait time: 1} <- End
+{Customers in Line: 0, customers served: 0, free time: 70, time to fill order: 0} 3: None
+{Customers in Line: 0, customers served: 0, free time: 70, time to fill order: 0} 4: None
+{Customers in Line: 0, customers served: 0, free time: 70, time to fill order: 0} 5: None
+{Customers in Line: 0, customers served: 0, free time: 70, time to fill order: 0} 6: None
+{Customers in Line: 0, customers served: 0, free time: 70, time to fill order: 0} 7: None
+{Customers in Line: 0, customers served: 0, free time: 70, time to fill order: 0} 8: None
+{Customers in Line: 0, customers served: 0, free time: 70, time to fill order: 0} 9: None
+
+End of scenario for instance of restaurant at 70out of 100
+----------------------------------------------------------------------
+----------------------------------------------------------------------
+Instance of Restaurant at 71 out of 100
+Cashiers:            10
+
+{Customers in Line: 0, customers served: 18, free time: 25, time to fill order: 0} 0: None
+{Customers in Line: 0, customers served: 10, free time: 48, time to fill order: 0} 1: None
+{Customers in Line: 0, customers served: 3, free time: 64, time to fill order: 0} 2: None
+{Customers in Line: 0, customers served: 0, free time: 71, time to fill order: 0} 3: None
+{Customers in Line: 0, customers served: 0, free time: 71, time to fill order: 0} 4: None
+{Customers in Line: 0, customers served: 0, free time: 71, time to fill order: 0} 5: None
+{Customers in Line: 0, customers served: 0, free time: 71, time to fill order: 0} 6: None
+{Customers in Line: 0, customers served: 0, free time: 71, time to fill order: 0} 7: None
+{Customers in Line: 0, customers served: 0, free time: 71, time to fill order: 0} 8: None
+{Customers in Line: 0, customers served: 0, free time: 71, time to fill order: 0} 9: None
+
+End of scenario for instance of restaurant at 71out of 100
+----------------------------------------------------------------------
+----------------------------------------------------------------------
+Instance of Restaurant at 72 out of 100
+Cashiers:            10
+
+{Customers in Line: 0, customers served: 18, free time: 26, time to fill order: 0} 0: None
+{Customers in Line: 0, customers served: 10, free time: 49, time to fill order: 0} 1: None
+{Customers in Line: 0, customers served: 3, free time: 65, time to fill order: 0} 2: None
+{Customers in Line: 0, customers served: 0, free time: 72, time to fill order: 0} 3: None
+{Customers in Line: 0, customers served: 0, free time: 72, time to fill order: 0} 4: None
+{Customers in Line: 0, customers served: 0, free time: 72, time to fill order: 0} 5: None
+{Customers in Line: 0, customers served: 0, free time: 72, time to fill order: 0} 6: None
+{Customers in Line: 0, customers served: 0, free time: 72, time to fill order: 0} 7: None
+{Customers in Line: 0, customers served: 0, free time: 72, time to fill order: 0} 8: None
+{Customers in Line: 0, customers served: 0, free time: 72, time to fill order: 0} 9: None
+
+End of scenario for instance of restaurant at 72out of 100
+----------------------------------------------------------------------
+----------------------------------------------------------------------
+Instance of Restaurant at 73 out of 100
+Cashiers:            10
+
+{Customers in Line: 0, customers served: 18, free time: 27, time to fill order: 0} 0: None
+{Customers in Line: 0, customers served: 10, free time: 50, time to fill order: 0} 1: None
+{Customers in Line: 0, customers served: 3, free time: 66, time to fill order: 0} 2: None
+{Customers in Line: 0, customers served: 0, free time: 73, time to fill order: 0} 3: None
+{Customers in Line: 0, customers served: 0, free time: 73, time to fill order: 0} 4: None
+{Customers in Line: 0, customers served: 0, free time: 73, time to fill order: 0} 5: None
+{Customers in Line: 0, customers served: 0, free time: 73, time to fill order: 0} 6: None
+{Customers in Line: 0, customers served: 0, free time: 73, time to fill order: 0} 7: None
+{Customers in Line: 0, customers served: 0, free time: 73, time to fill order: 0} 8: None
+{Customers in Line: 0, customers served: 0, free time: 73, time to fill order: 0} 9: None
+
+End of scenario for instance of restaurant at 73out of 100
+----------------------------------------------------------------------
+----------------------------------------------------------------------
+Instance of Restaurant at 74 out of 100
+Cashiers:            10
+
+{Customers in Line: 0, customers served: 18, free time: 27, time to fill order: 2} 0: {Order time: 2, wait time: 0} <- End
+{Customers in Line: 0, customers served: 10, free time: 51, time to fill order: 0} 1: None
+{Customers in Line: 0, customers served: 3, free time: 67, time to fill order: 0} 2: None
+{Customers in Line: 0, customers served: 0, free time: 74, time to fill order: 0} 3: None
+{Customers in Line: 0, customers served: 0, free time: 74, time to fill order: 0} 4: None
+{Customers in Line: 0, customers served: 0, free time: 74, time to fill order: 0} 5: None
+{Customers in Line: 0, customers served: 0, free time: 74, time to fill order: 0} 6: None
+{Customers in Line: 0, customers served: 0, free time: 74, time to fill order: 0} 7: None
+{Customers in Line: 0, customers served: 0, free time: 74, time to fill order: 0} 8: None
+{Customers in Line: 0, customers served: 0, free time: 74, time to fill order: 0} 9: None
+
+End of scenario for instance of restaurant at 74out of 100
+----------------------------------------------------------------------
+----------------------------------------------------------------------
+Instance of Restaurant at 75 out of 100
+Cashiers:            10
+
+{Customers in Line: 0, customers served: 18, free time: 27, time to fill order: 1} 0: {Order time: 2, wait time: 1} <- End
+{Customers in Line: 0, customers served: 10, free time: 52, time to fill order: 0} 1: None
+{Customers in Line: 0, customers served: 3, free time: 68, time to fill order: 0} 2: None
+{Customers in Line: 0, customers served: 0, free time: 75, time to fill order: 0} 3: None
+{Customers in Line: 0, customers served: 0, free time: 75, time to fill order: 0} 4: None
+{Customers in Line: 0, customers served: 0, free time: 75, time to fill order: 0} 5: None
+{Customers in Line: 0, customers served: 0, free time: 75, time to fill order: 0} 6: None
+{Customers in Line: 0, customers served: 0, free time: 75, time to fill order: 0} 7: None
+{Customers in Line: 0, customers served: 0, free time: 75, time to fill order: 0} 8: None
+{Customers in Line: 0, customers served: 0, free time: 75, time to fill order: 0} 9: None
+
+End of scenario for instance of restaurant at 75out of 100
+----------------------------------------------------------------------
+----------------------------------------------------------------------
+Instance of Restaurant at 76 out of 100
+Cashiers:            10
+
+{Customers in Line: 0, customers served: 19, free time: 27, time to fill order: 0} 0: None
+{Customers in Line: 0, customers served: 10, free time: 53, time to fill order: 0} 1: None
+{Customers in Line: 0, customers served: 3, free time: 69, time to fill order: 0} 2: None
+{Customers in Line: 0, customers served: 0, free time: 76, time to fill order: 0} 3: None
+{Customers in Line: 0, customers served: 0, free time: 76, time to fill order: 0} 4: None
+{Customers in Line: 0, customers served: 0, free time: 76, time to fill order: 0} 5: None
+{Customers in Line: 0, customers served: 0, free time: 76, time to fill order: 0} 6: None
+{Customers in Line: 0, customers served: 0, free time: 76, time to fill order: 0} 7: None
+{Customers in Line: 0, customers served: 0, free time: 76, time to fill order: 0} 8: None
+{Customers in Line: 0, customers served: 0, free time: 76, time to fill order: 0} 9: None
+
+End of scenario for instance of restaurant at 76out of 100
+----------------------------------------------------------------------
+----------------------------------------------------------------------
+Instance of Restaurant at 77 out of 100
+Cashiers:            10
+
+{Customers in Line: 0, customers served: 19, free time: 28, time to fill order: 0} 0: None
+{Customers in Line: 0, customers served: 10, free time: 54, time to fill order: 0} 1: None
+{Customers in Line: 0, customers served: 3, free time: 70, time to fill order: 0} 2: None
+{Customers in Line: 0, customers served: 0, free time: 77, time to fill order: 0} 3: None
+{Customers in Line: 0, customers served: 0, free time: 77, time to fill order: 0} 4: None
+{Customers in Line: 0, customers served: 0, free time: 77, time to fill order: 0} 5: None
+{Customers in Line: 0, customers served: 0, free time: 77, time to fill order: 0} 6: None
+{Customers in Line: 0, customers served: 0, free time: 77, time to fill order: 0} 7: None
+{Customers in Line: 0, customers served: 0, free time: 77, time to fill order: 0} 8: None
+{Customers in Line: 0, customers served: 0, free time: 77, time to fill order: 0} 9: None
+
+End of scenario for instance of restaurant at 77out of 100
+----------------------------------------------------------------------
+----------------------------------------------------------------------
+Instance of Restaurant at 78 out of 100
+Cashiers:            10
+
+{Customers in Line: 0, customers served: 19, free time: 29, time to fill order: 0} 0: None
+{Customers in Line: 0, customers served: 10, free time: 55, time to fill order: 0} 1: None
+{Customers in Line: 0, customers served: 3, free time: 71, time to fill order: 0} 2: None
+{Customers in Line: 0, customers served: 0, free time: 78, time to fill order: 0} 3: None
+{Customers in Line: 0, customers served: 0, free time: 78, time to fill order: 0} 4: None
+{Customers in Line: 0, customers served: 0, free time: 78, time to fill order: 0} 5: None
+{Customers in Line: 0, customers served: 0, free time: 78, time to fill order: 0} 6: None
+{Customers in Line: 0, customers served: 0, free time: 78, time to fill order: 0} 7: None
+{Customers in Line: 0, customers served: 0, free time: 78, time to fill order: 0} 8: None
+{Customers in Line: 0, customers served: 0, free time: 78, time to fill order: 0} 9: None
+
+End of scenario for instance of restaurant at 78out of 100
+----------------------------------------------------------------------
+----------------------------------------------------------------------
+Instance of Restaurant at 79 out of 100
+Cashiers:            10
+
+{Customers in Line: 0, customers served: 19, free time: 29, time to fill order: 2} 0: {Order time: 2, wait time: 0} <- End
+{Customers in Line: 0, customers served: 10, free time: 56, time to fill order: 0} 1: None
+{Customers in Line: 0, customers served: 3, free time: 72, time to fill order: 0} 2: None
+{Customers in Line: 0, customers served: 0, free time: 79, time to fill order: 0} 3: None
+{Customers in Line: 0, customers served: 0, free time: 79, time to fill order: 0} 4: None
+{Customers in Line: 0, customers served: 0, free time: 79, time to fill order: 0} 5: None
+{Customers in Line: 0, customers served: 0, free time: 79, time to fill order: 0} 6: None
+{Customers in Line: 0, customers served: 0, free time: 79, time to fill order: 0} 7: None
+{Customers in Line: 0, customers served: 0, free time: 79, time to fill order: 0} 8: None
+{Customers in Line: 0, customers served: 0, free time: 79, time to fill order: 0} 9: None
+
+End of scenario for instance of restaurant at 79out of 100
+----------------------------------------------------------------------
+----------------------------------------------------------------------
+Instance of Restaurant at 80 out of 100
+Cashiers:            10
+
+{Customers in Line: 0, customers served: 19, free time: 29, time to fill order: 1} 0: {Order time: 2, wait time: 1} <- End
+{Customers in Line: 0, customers served: 10, free time: 56, time to fill order: 2} 1: {Order time: 2, wait time: 0} <- End
+{Customers in Line: 0, customers served: 3, free time: 73, time to fill order: 0} 2: None
+{Customers in Line: 0, customers served: 0, free time: 80, time to fill order: 0} 3: None
+{Customers in Line: 0, customers served: 0, free time: 80, time to fill order: 0} 4: None
+{Customers in Line: 0, customers served: 0, free time: 80, time to fill order: 0} 5: None
+{Customers in Line: 0, customers served: 0, free time: 80, time to fill order: 0} 6: None
+{Customers in Line: 0, customers served: 0, free time: 80, time to fill order: 0} 7: None
+{Customers in Line: 0, customers served: 0, free time: 80, time to fill order: 0} 8: None
+{Customers in Line: 0, customers served: 0, free time: 80, time to fill order: 0} 9: None
+
+End of scenario for instance of restaurant at 80out of 100
+----------------------------------------------------------------------
+----------------------------------------------------------------------
+Instance of Restaurant at 81 out of 100
+Cashiers:            10
+
+{Customers in Line: 0, customers served: 20, free time: 29, time to fill order: 0} 0: None
+{Customers in Line: 0, customers served: 10, free time: 56, time to fill order: 1} 1: {Order time: 2, wait time: 1} <- End
+{Customers in Line: 0, customers served: 3, free time: 74, time to fill order: 0} 2: None
+{Customers in Line: 0, customers served: 0, free time: 81, time to fill order: 0} 3: None
+{Customers in Line: 0, customers served: 0, free time: 81, time to fill order: 0} 4: None
+{Customers in Line: 0, customers served: 0, free time: 81, time to fill order: 0} 5: None
+{Customers in Line: 0, customers served: 0, free time: 81, time to fill order: 0} 6: None
+{Customers in Line: 0, customers served: 0, free time: 81, time to fill order: 0} 7: None
+{Customers in Line: 0, customers served: 0, free time: 81, time to fill order: 0} 8: None
+{Customers in Line: 0, customers served: 0, free time: 81, time to fill order: 0} 9: None
+
+End of scenario for instance of restaurant at 81out of 100
+----------------------------------------------------------------------
+----------------------------------------------------------------------
+Instance of Restaurant at 82 out of 100
+Cashiers:            10
+
+{Customers in Line: 0, customers served: 20, free time: 29, time to fill order: 1} 0: {Order time: 1, wait time: 0} <- End
+{Customers in Line: 0, customers served: 11, free time: 56, time to fill order: 0} 1: None
+{Customers in Line: 0, customers served: 3, free time: 75, time to fill order: 0} 2: None
+{Customers in Line: 0, customers served: 0, free time: 82, time to fill order: 0} 3: None
+{Customers in Line: 0, customers served: 0, free time: 82, time to fill order: 0} 4: None
+{Customers in Line: 0, customers served: 0, free time: 82, time to fill order: 0} 5: None
+{Customers in Line: 0, customers served: 0, free time: 82, time to fill order: 0} 6: None
+{Customers in Line: 0, customers served: 0, free time: 82, time to fill order: 0} 7: None
+{Customers in Line: 0, customers served: 0, free time: 82, time to fill order: 0} 8: None
+{Customers in Line: 0, customers served: 0, free time: 82, time to fill order: 0} 9: None
+
+End of scenario for instance of restaurant at 82out of 100
+----------------------------------------------------------------------
+----------------------------------------------------------------------
+Instance of Restaurant at 83 out of 100
+Cashiers:            10
+
+{Customers in Line: 0, customers served: 21, free time: 29, time to fill order: 0} 0: None
+{Customers in Line: 0, customers served: 11, free time: 57, time to fill order: 0} 1: None
+{Customers in Line: 0, customers served: 3, free time: 76, time to fill order: 0} 2: None
+{Customers in Line: 0, customers served: 0, free time: 83, time to fill order: 0} 3: None
+{Customers in Line: 0, customers served: 0, free time: 83, time to fill order: 0} 4: None
+{Customers in Line: 0, customers served: 0, free time: 83, time to fill order: 0} 5: None
+{Customers in Line: 0, customers served: 0, free time: 83, time to fill order: 0} 6: None
+{Customers in Line: 0, customers served: 0, free time: 83, time to fill order: 0} 7: None
+{Customers in Line: 0, customers served: 0, free time: 83, time to fill order: 0} 8: None
+{Customers in Line: 0, customers served: 0, free time: 83, time to fill order: 0} 9: None
+
+End of scenario for instance of restaurant at 83out of 100
+----------------------------------------------------------------------
+----------------------------------------------------------------------
+Instance of Restaurant at 84 out of 100
+Cashiers:            10
+
+{Customers in Line: 0, customers served: 21, free time: 29, time to fill order: 2} 0: {Order time: 2, wait time: 0} <- End
+{Customers in Line: 0, customers served: 11, free time: 58, time to fill order: 0} 1: None
+{Customers in Line: 0, customers served: 3, free time: 77, time to fill order: 0} 2: None
+{Customers in Line: 0, customers served: 0, free time: 84, time to fill order: 0} 3: None
+{Customers in Line: 0, customers served: 0, free time: 84, time to fill order: 0} 4: None
+{Customers in Line: 0, customers served: 0, free time: 84, time to fill order: 0} 5: None
+{Customers in Line: 0, customers served: 0, free time: 84, time to fill order: 0} 6: None
+{Customers in Line: 0, customers served: 0, free time: 84, time to fill order: 0} 7: None
+{Customers in Line: 0, customers served: 0, free time: 84, time to fill order: 0} 8: None
+{Customers in Line: 0, customers served: 0, free time: 84, time to fill order: 0} 9: None
+
+End of scenario for instance of restaurant at 84out of 100
+----------------------------------------------------------------------
+----------------------------------------------------------------------
+Instance of Restaurant at 85 out of 100
+Cashiers:            10
+
+{Customers in Line: 0, customers served: 21, free time: 29, time to fill order: 1} 0: {Order time: 2, wait time: 1} <- End
+{Customers in Line: 0, customers served: 11, free time: 58, time to fill order: 1} 1: {Order time: 1, wait time: 0} <- End
+{Customers in Line: 0, customers served: 3, free time: 78, time to fill order: 0} 2: None
+{Customers in Line: 0, customers served: 0, free time: 85, time to fill order: 0} 3: None
+{Customers in Line: 0, customers served: 0, free time: 85, time to fill order: 0} 4: None
+{Customers in Line: 0, customers served: 0, free time: 85, time to fill order: 0} 5: None
+{Customers in Line: 0, customers served: 0, free time: 85, time to fill order: 0} 6: None
+{Customers in Line: 0, customers served: 0, free time: 85, time to fill order: 0} 7: None
+{Customers in Line: 0, customers served: 0, free time: 85, time to fill order: 0} 8: None
+{Customers in Line: 0, customers served: 0, free time: 85, time to fill order: 0} 9: None
+
+End of scenario for instance of restaurant at 85out of 100
+----------------------------------------------------------------------
+----------------------------------------------------------------------
+Instance of Restaurant at 86 out of 100
+Cashiers:            10
+
+{Customers in Line: 0, customers served: 22, free time: 29, time to fill order: 0} 0: None
+{Customers in Line: 0, customers served: 12, free time: 58, time to fill order: 0} 1: None
+{Customers in Line: 0, customers served: 3, free time: 78, time to fill order: 2} 2: {Order time: 2, wait time: 0} <- End
+{Customers in Line: 0, customers served: 0, free time: 86, time to fill order: 0} 3: None
+{Customers in Line: 0, customers served: 0, free time: 86, time to fill order: 0} 4: None
+{Customers in Line: 0, customers served: 0, free time: 86, time to fill order: 0} 5: None
+{Customers in Line: 0, customers served: 0, free time: 86, time to fill order: 0} 6: None
+{Customers in Line: 0, customers served: 0, free time: 86, time to fill order: 0} 7: None
+{Customers in Line: 0, customers served: 0, free time: 86, time to fill order: 0} 8: None
+{Customers in Line: 0, customers served: 0, free time: 86, time to fill order: 0} 9: None
+
+End of scenario for instance of restaurant at 86out of 100
+----------------------------------------------------------------------
+----------------------------------------------------------------------
+Instance of Restaurant at 87 out of 100
+Cashiers:            10
+
+{Customers in Line: 0, customers served: 22, free time: 29, time to fill order: 2} 0: {Order time: 2, wait time: 0} <- End
+{Customers in Line: 0, customers served: 12, free time: 59, time to fill order: 0} 1: None
+{Customers in Line: 0, customers served: 3, free time: 78, time to fill order: 1} 2: {Order time: 2, wait time: 1} <- End
+{Customers in Line: 0, customers served: 0, free time: 87, time to fill order: 0} 3: None
+{Customers in Line: 0, customers served: 0, free time: 87, time to fill order: 0} 4: None
+{Customers in Line: 0, customers served: 0, free time: 87, time to fill order: 0} 5: None
+{Customers in Line: 0, customers served: 0, free time: 87, time to fill order: 0} 6: None
+{Customers in Line: 0, customers served: 0, free time: 87, time to fill order: 0} 7: None
+{Customers in Line: 0, customers served: 0, free time: 87, time to fill order: 0} 8: None
+{Customers in Line: 0, customers served: 0, free time: 87, time to fill order: 0} 9: None
+
+End of scenario for instance of restaurant at 87out of 100
+----------------------------------------------------------------------
+----------------------------------------------------------------------
+Instance of Restaurant at 88 out of 100
+Cashiers:            10
+
+{Customers in Line: 0, customers served: 22, free time: 29, time to fill order: 1} 0: {Order time: 2, wait time: 1} <- End
+{Customers in Line: 0, customers served: 12, free time: 59, time to fill order: 2} 1: {Order time: 2, wait time: 0} <- End
+{Customers in Line: 0, customers served: 4, free time: 78, time to fill order: 0} 2: None
+{Customers in Line: 0, customers served: 0, free time: 88, time to fill order: 0} 3: None
+{Customers in Line: 0, customers served: 0, free time: 88, time to fill order: 0} 4: None
+{Customers in Line: 0, customers served: 0, free time: 88, time to fill order: 0} 5: None
+{Customers in Line: 0, customers served: 0, free time: 88, time to fill order: 0} 6: None
+{Customers in Line: 0, customers served: 0, free time: 88, time to fill order: 0} 7: None
+{Customers in Line: 0, customers served: 0, free time: 88, time to fill order: 0} 8: None
+{Customers in Line: 0, customers served: 0, free time: 88, time to fill order: 0} 9: None
+
+End of scenario for instance of restaurant at 88out of 100
+----------------------------------------------------------------------
+----------------------------------------------------------------------
+Instance of Restaurant at 89 out of 100
+Cashiers:            10
+
+{Customers in Line: 0, customers served: 23, free time: 29, time to fill order: 0} 0: None
+{Customers in Line: 0, customers served: 12, free time: 59, time to fill order: 1} 1: {Order time: 2, wait time: 1} <- End
+{Customers in Line: 0, customers served: 4, free time: 79, time to fill order: 0} 2: None
+{Customers in Line: 0, customers served: 0, free time: 89, time to fill order: 0} 3: None
+{Customers in Line: 0, customers served: 0, free time: 89, time to fill order: 0} 4: None
+{Customers in Line: 0, customers served: 0, free time: 89, time to fill order: 0} 5: None
+{Customers in Line: 0, customers served: 0, free time: 89, time to fill order: 0} 6: None
+{Customers in Line: 0, customers served: 0, free time: 89, time to fill order: 0} 7: None
+{Customers in Line: 0, customers served: 0, free time: 89, time to fill order: 0} 8: None
+{Customers in Line: 0, customers served: 0, free time: 89, time to fill order: 0} 9: None
+
+End of scenario for instance of restaurant at 89out of 100
+----------------------------------------------------------------------
+----------------------------------------------------------------------
+Instance of Restaurant at 90 out of 100
+Cashiers:            10
+
+{Customers in Line: 0, customers served: 23, free time: 29, time to fill order: 1} 0: {Order time: 1, wait time: 0} <- End
+{Customers in Line: 0, customers served: 13, free time: 59, time to fill order: 0} 1: None
+{Customers in Line: 0, customers served: 4, free time: 80, time to fill order: 0} 2: None
+{Customers in Line: 0, customers served: 0, free time: 90, time to fill order: 0} 3: None
+{Customers in Line: 0, customers served: 0, free time: 90, time to fill order: 0} 4: None
+{Customers in Line: 0, customers served: 0, free time: 90, time to fill order: 0} 5: None
+{Customers in Line: 0, customers served: 0, free time: 90, time to fill order: 0} 6: None
+{Customers in Line: 0, customers served: 0, free time: 90, time to fill order: 0} 7: None
+{Customers in Line: 0, customers served: 0, free time: 90, time to fill order: 0} 8: None
+{Customers in Line: 0, customers served: 0, free time: 90, time to fill order: 0} 9: None
+
+End of scenario for instance of restaurant at 90out of 100
+----------------------------------------------------------------------
+----------------------------------------------------------------------
+Instance of Restaurant at 91 out of 100
+Cashiers:            10
+
+{Customers in Line: 0, customers served: 24, free time: 29, time to fill order: 0} 0: None
+{Customers in Line: 0, customers served: 13, free time: 59, time to fill order: 2} 1: {Order time: 2, wait time: 0} <- End
+{Customers in Line: 0, customers served: 4, free time: 81, time to fill order: 0} 2: None
+{Customers in Line: 0, customers served: 0, free time: 91, time to fill order: 0} 3: None
+{Customers in Line: 0, customers served: 0, free time: 91, time to fill order: 0} 4: None
+{Customers in Line: 0, customers served: 0, free time: 91, time to fill order: 0} 5: None
+{Customers in Line: 0, customers served: 0, free time: 91, time to fill order: 0} 6: None
+{Customers in Line: 0, customers served: 0, free time: 91, time to fill order: 0} 7: None
+{Customers in Line: 0, customers served: 0, free time: 91, time to fill order: 0} 8: None
+{Customers in Line: 0, customers served: 0, free time: 91, time to fill order: 0} 9: None
+
+End of scenario for instance of restaurant at 91out of 100
+----------------------------------------------------------------------
+----------------------------------------------------------------------
+Instance of Restaurant at 92 out of 100
+Cashiers:            10
+
+{Customers in Line: 0, customers served: 24, free time: 29, time to fill order: 1} 0: {Order time: 1, wait time: 0} <- End
+{Customers in Line: 0, customers served: 13, free time: 59, time to fill order: 1} 1: {Order time: 2, wait time: 1} <- End
+{Customers in Line: 0, customers served: 4, free time: 82, time to fill order: 0} 2: None
+{Customers in Line: 0, customers served: 0, free time: 92, time to fill order: 0} 3: None
+{Customers in Line: 0, customers served: 0, free time: 92, time to fill order: 0} 4: None
+{Customers in Line: 0, customers served: 0, free time: 92, time to fill order: 0} 5: None
+{Customers in Line: 0, customers served: 0, free time: 92, time to fill order: 0} 6: None
+{Customers in Line: 0, customers served: 0, free time: 92, time to fill order: 0} 7: None
+{Customers in Line: 0, customers served: 0, free time: 92, time to fill order: 0} 8: None
+{Customers in Line: 0, customers served: 0, free time: 92, time to fill order: 0} 9: None
+
+End of scenario for instance of restaurant at 92out of 100
+----------------------------------------------------------------------
+----------------------------------------------------------------------
+Instance of Restaurant at 93 out of 100
+Cashiers:            10
+
+{Customers in Line: 0, customers served: 25, free time: 29, time to fill order: 0} 0: None
+{Customers in Line: 0, customers served: 14, free time: 59, time to fill order: 0} 1: None
+{Customers in Line: 0, customers served: 4, free time: 82, time to fill order: 1} 2: {Order time: 1, wait time: 0} <- End
+{Customers in Line: 0, customers served: 0, free time: 93, time to fill order: 0} 3: None
+{Customers in Line: 0, customers served: 0, free time: 93, time to fill order: 0} 4: None
+{Customers in Line: 0, customers served: 0, free time: 93, time to fill order: 0} 5: None
+{Customers in Line: 0, customers served: 0, free time: 93, time to fill order: 0} 6: None
+{Customers in Line: 0, customers served: 0, free time: 93, time to fill order: 0} 7: None
+{Customers in Line: 0, customers served: 0, free time: 93, time to fill order: 0} 8: None
+{Customers in Line: 0, customers served: 0, free time: 93, time to fill order: 0} 9: None
+
+End of scenario for instance of restaurant at 93out of 100
+----------------------------------------------------------------------
+----------------------------------------------------------------------
+Instance of Restaurant at 94 out of 100
+Cashiers:            10
+
+{Customers in Line: 0, customers served: 25, free time: 29, time to fill order: 1} 0: {Order time: 1, wait time: 0} <- End
+{Customers in Line: 0, customers served: 14, free time: 60, time to fill order: 0} 1: None
+{Customers in Line: 0, customers served: 5, free time: 82, time to fill order: 0} 2: None
+{Customers in Line: 0, customers served: 0, free time: 94, time to fill order: 0} 3: None
+{Customers in Line: 0, customers served: 0, free time: 94, time to fill order: 0} 4: None
+{Customers in Line: 0, customers served: 0, free time: 94, time to fill order: 0} 5: None
+{Customers in Line: 0, customers served: 0, free time: 94, time to fill order: 0} 6: None
+{Customers in Line: 0, customers served: 0, free time: 94, time to fill order: 0} 7: None
+{Customers in Line: 0, customers served: 0, free time: 94, time to fill order: 0} 8: None
+{Customers in Line: 0, customers served: 0, free time: 94, time to fill order: 0} 9: None
+
+End of scenario for instance of restaurant at 94out of 100
+----------------------------------------------------------------------
+----------------------------------------------------------------------
+Instance of Restaurant at 95 out of 100
+Cashiers:            10
+
+{Customers in Line: 0, customers served: 26, free time: 29, time to fill order: 0} 0: None
+{Customers in Line: 0, customers served: 14, free time: 60, time to fill order: 1} 1: {Order time: 1, wait time: 0} <- End
+{Customers in Line: 0, customers served: 5, free time: 83, time to fill order: 0} 2: None
+{Customers in Line: 0, customers served: 0, free time: 95, time to fill order: 0} 3: None
+{Customers in Line: 0, customers served: 0, free time: 95, time to fill order: 0} 4: None
+{Customers in Line: 0, customers served: 0, free time: 95, time to fill order: 0} 5: None
+{Customers in Line: 0, customers served: 0, free time: 95, time to fill order: 0} 6: None
+{Customers in Line: 0, customers served: 0, free time: 95, time to fill order: 0} 7: None
+{Customers in Line: 0, customers served: 0, free time: 95, time to fill order: 0} 8: None
+{Customers in Line: 0, customers served: 0, free time: 95, time to fill order: 0} 9: None
+
+End of scenario for instance of restaurant at 95out of 100
+----------------------------------------------------------------------
+----------------------------------------------------------------------
+Instance of Restaurant at 96 out of 100
+Cashiers:            10
+
+{Customers in Line: 0, customers served: 26, free time: 29, time to fill order: 1} 0: {Order time: 1, wait time: 0} <- End
+{Customers in Line: 0, customers served: 15, free time: 60, time to fill order: 0} 1: None
+{Customers in Line: 0, customers served: 5, free time: 84, time to fill order: 0} 2: None
+{Customers in Line: 0, customers served: 0, free time: 96, time to fill order: 0} 3: None
+{Customers in Line: 0, customers served: 0, free time: 96, time to fill order: 0} 4: None
+{Customers in Line: 0, customers served: 0, free time: 96, time to fill order: 0} 5: None
+{Customers in Line: 0, customers served: 0, free time: 96, time to fill order: 0} 6: None
+{Customers in Line: 0, customers served: 0, free time: 96, time to fill order: 0} 7: None
+{Customers in Line: 0, customers served: 0, free time: 96, time to fill order: 0} 8: None
+{Customers in Line: 0, customers served: 0, free time: 96, time to fill order: 0} 9: None
+
+End of scenario for instance of restaurant at 96out of 100
+----------------------------------------------------------------------
+----------------------------------------------------------------------
+Instance of Restaurant at 97 out of 100
+Cashiers:            10
+
+{Customers in Line: 0, customers served: 27, free time: 29, time to fill order: 0} 0: None
+{Customers in Line: 0, customers served: 15, free time: 61, time to fill order: 0} 1: None
+{Customers in Line: 0, customers served: 5, free time: 85, time to fill order: 0} 2: None
+{Customers in Line: 0, customers served: 0, free time: 97, time to fill order: 0} 3: None
+{Customers in Line: 0, customers served: 0, free time: 97, time to fill order: 0} 4: None
+{Customers in Line: 0, customers served: 0, free time: 97, time to fill order: 0} 5: None
+{Customers in Line: 0, customers served: 0, free time: 97, time to fill order: 0} 6: None
+{Customers in Line: 0, customers served: 0, free time: 97, time to fill order: 0} 7: None
+{Customers in Line: 0, customers served: 0, free time: 97, time to fill order: 0} 8: None
+{Customers in Line: 0, customers served: 0, free time: 97, time to fill order: 0} 9: None
+
+End of scenario for instance of restaurant at 97out of 100
+----------------------------------------------------------------------
+----------------------------------------------------------------------
+Instance of Restaurant at 98 out of 100
+Cashiers:            10
+
+{Customers in Line: 0, customers served: 27, free time: 29, time to fill order: 1} 0: {Order time: 1, wait time: 0} <- End
+{Customers in Line: 0, customers served: 15, free time: 62, time to fill order: 0} 1: None
+{Customers in Line: 0, customers served: 5, free time: 86, time to fill order: 0} 2: None
+{Customers in Line: 0, customers served: 0, free time: 98, time to fill order: 0} 3: None
+{Customers in Line: 0, customers served: 0, free time: 98, time to fill order: 0} 4: None
+{Customers in Line: 0, customers served: 0, free time: 98, time to fill order: 0} 5: None
+{Customers in Line: 0, customers served: 0, free time: 98, time to fill order: 0} 6: None
+{Customers in Line: 0, customers served: 0, free time: 98, time to fill order: 0} 7: None
+{Customers in Line: 0, customers served: 0, free time: 98, time to fill order: 0} 8: None
+{Customers in Line: 0, customers served: 0, free time: 98, time to fill order: 0} 9: None
+
+End of scenario for instance of restaurant at 98out of 100
+----------------------------------------------------------------------
+----------------------------------------------------------------------
+Instance of Restaurant at 99 out of 100
+Cashiers:            10
+
+{Customers in Line: 0, customers served: 28, free time: 29, time to fill order: 0} 0: None
+{Customers in Line: 0, customers served: 15, free time: 63, time to fill order: 0} 1: None
+{Customers in Line: 0, customers served: 5, free time: 87, time to fill order: 0} 2: None
+{Customers in Line: 0, customers served: 0, free time: 99, time to fill order: 0} 3: None
+{Customers in Line: 0, customers served: 0, free time: 99, time to fill order: 0} 4: None
+{Customers in Line: 0, customers served: 0, free time: 99, time to fill order: 0} 5: None
+{Customers in Line: 0, customers served: 0, free time: 99, time to fill order: 0} 6: None
+{Customers in Line: 0, customers served: 0, free time: 99, time to fill order: 0} 7: None
+{Customers in Line: 0, customers served: 0, free time: 99, time to fill order: 0} 8: None
+{Customers in Line: 0, customers served: 0, free time: 99, time to fill order: 0} 9: None
+
+End of scenario for instance of restaurant at 99out of 100
+----------------------------------------------------------------------
+----------------------------------------------------------------------
+Instance of Restaurant at 100 out of 100
+Cashiers:            10
+
+{Customers in Line: 0, customers served: 28, free time: 30, time to fill order: 0} 0: None
+{Customers in Line: 0, customers served: 15, free time: 64, time to fill order: 0} 1: None
+{Customers in Line: 0, customers served: 5, free time: 88, time to fill order: 0} 2: None
+{Customers in Line: 0, customers served: 0, free time: 100, time to fill order: 0} 3: None
+{Customers in Line: 0, customers served: 0, free time: 100, time to fill order: 0} 4: None
+{Customers in Line: 0, customers served: 0, free time: 100, time to fill order: 0} 5: None
+{Customers in Line: 0, customers served: 0, free time: 100, time to fill order: 0} 6: None
+{Customers in Line: 0, customers served: 0, free time: 100, time to fill order: 0} 7: None
+{Customers in Line: 0, customers served: 0, free time: 100, time to fill order: 0} 8: None
+{Customers in Line: 0, customers served: 0, free time: 100, time to fill order: 0} 9: None
+
+End of scenario for instance of restaurant at 100out of 100
+----------------------------------------------------------------------
